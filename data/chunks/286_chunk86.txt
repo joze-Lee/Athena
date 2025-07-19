@@ -1,0 +1,1 @@
+The next steps in the development of the system will be implementing the proposed method of controlling the depth of water jet cut, exploring different means of powering the platform legs, and further testing and modelling. REFERENCES [1] Spine Physicians Institute. (2014).

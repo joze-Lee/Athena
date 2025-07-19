@@ -1,0 +1,1 @@
+In order to progress further into the analysis, it is important to define two separate coordinate systems; the fixed Cartesian coordinate system X, Y and Z which are attached to the base and has its origin at the center of the base, and the end-effector coordinates system x, y and z attached to the end-effector with its origin located at the geometric center of the top plate.

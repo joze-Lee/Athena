@@ -1,0 +1,1 @@
+Few parallel robotic systems have spinal applications, those that do have been developed for the positioning of pedicle screws [11]. Another system was developed for the replacement of cervical artificial discs [12].

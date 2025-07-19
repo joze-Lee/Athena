@@ -1,0 +1,1 @@
+The integration of haptic feedback into teleoperated robotic surgical systems poses a notable difficulty since system communication time delays induce a trade-off between transparency and stability.

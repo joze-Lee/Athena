@@ -1,0 +1,1 @@
+The green region represents the 95% confidence envelope for Lmax=Qmax values based on data from the normal group. Individuals with Lmax and Qmax values within the yellow region have a normal flow rate but reduced urethral dilation.

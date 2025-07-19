@@ -1,0 +1,1 @@
+In this case a Proportional-Integral-Derivative (PID) controller was implemented to ensure that the robot platform leg lengths extend to the desired length in the ideal time. This is illustrated by the signal h in the Fig. 5.

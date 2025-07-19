@@ -1,0 +1,1 @@
+Instead of the sphere, the struts themselves could be extended as close as prac- tical to the node point, and joined directly to the oth- er adjoining struts, such as by welding or bonding (i.e. gluing). As the struts are subject to compressive forces along their lengths, the ends at the joints have a tendency to push onto the adjacent strut end.

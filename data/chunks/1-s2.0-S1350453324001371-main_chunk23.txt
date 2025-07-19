@@ -1,0 +1,1 @@
+This robotic device can characterise touch interactions with soft tissue. For robotic indentation and needle inser  tion, a bilateral controller with a linear motor is used.

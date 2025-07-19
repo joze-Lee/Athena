@@ -1,0 +1,1 @@
+Initial prototype frame and joints Single piece joints were moulded in silicone rub- ber to avoid the need to bond the sections together, which were less prone to failure, but their strength was limited by the moulded material. For both ex- amples, the pivoting of the struts was imprecise and not concentric around the frame s node points.

@@ -1,0 +1,1 @@
+On the other hand, if viscous effects are small, and the forces due to surface tension are large in comparison to the momentum in the jet, then the jet surface can become unstable and break-up due to the amplifica- tion of capillary waves. Consider the jet flow in Fig. 1, where the minimum dimension of the jet at the exit of the aperture is Dmin.

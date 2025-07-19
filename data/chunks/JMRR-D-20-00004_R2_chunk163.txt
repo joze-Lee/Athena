@@ -1,0 +1,1 @@
+The combined weight of the platform and the Articulated Distal Tip Tool is approximately 8kg. Even allowing for some dynamic loading, the cords are never loaded beyond their breaking stresses, especially as the weight of the platform and tool is distributed between three connection points on each of the upper and lower platforms.

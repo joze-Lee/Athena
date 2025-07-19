@@ -1,0 +1,1 @@
+The most important for plain water jet cutting are: water pressure, orifice diameter, nozzle stand-off distance, and the time of cut. These parameters were experimentally measured. The experimental set up is demonstrated in Fig.10 where a piece of cow topside is used as an object.

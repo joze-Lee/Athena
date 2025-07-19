@@ -1,0 +1,1 @@
+12. The complete platform model. The reference trajectory is specified in six degree pose space, and an inverse kinematics module converts it into one through six degree leg position space.

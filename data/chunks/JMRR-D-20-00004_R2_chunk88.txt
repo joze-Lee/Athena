@@ -1,0 +1,1 @@
+It is also proportionally low relative to the overall length of the telescopic struts of the prototypes (which vary in length from 450mm to 270mm); the displacement of concentricity is between 0.9% and 1.5% of the strut length. 4. Analysis of the Design of the Surgical Robot Platform 4.1.

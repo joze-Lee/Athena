@@ -1,0 +1,1 @@
+At the end of each physical time-step, the edge of the droplet was displaced according to the calculated velocity, and a new computational grid was fitted to the new shape.

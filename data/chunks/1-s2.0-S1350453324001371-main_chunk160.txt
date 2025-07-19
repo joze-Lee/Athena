@@ -1,0 +1,1 @@
+IEEE Trans Haptics 2018;11:241 54. https://doi.org/10.1109/ TOH.2017.2786243. [8] Ehrampoosh A, Shirinzadeh B, Pinskier J, Smith J, Moshinsky R, Zhong Y. A force- feedback methodology for teleoperated suturing task in robotic-assisted minimally invasive surgery.

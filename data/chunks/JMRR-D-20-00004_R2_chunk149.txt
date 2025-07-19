@@ -1,0 +1,1 @@
+Discussion The concentric connector joint, originally developed for use in variable-geometry space frames, was modified and used in the development of a parallel robot platform for this medical application.

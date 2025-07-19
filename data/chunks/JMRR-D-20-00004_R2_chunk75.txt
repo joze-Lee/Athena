@@ -1,0 +1,1 @@
+Refinements to the design This crude arrangement would function as a 3DoF joint for 3 or more struts, but there are some important refinements that can be made to greatly improve the joint s performance, shown in Figure 8-A and 8-B.

@@ -1,0 +1,1 @@
+We therefore propose a new parameter, L=Q, which is a measure of the meatal dilation or opening as shown in Fig. 4(b). Comparisons between the CFD and experimental data for a range of orifice shapes show an excellent agreement in the values of dilation parameter L=Q (see Fig.

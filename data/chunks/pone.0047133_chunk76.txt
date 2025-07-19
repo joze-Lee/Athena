@@ -1,0 +1,1 @@
+(b) The dilation parameter, L=Q, is dependent on the cross sectional area and the aspect ratio (Dmax=Dmin) and therefore may be used to describe urethral/meatal opening. Comparisons between the CFD and experimental data for a range of orifice shapes show an excellent agreement in the values of L=Q.

@@ -1,0 +1,1 @@
+[27] Clark L, Shirinzadeh B, Tian Y, Oetomo D. Laser-based sensing, measurement, and misalignment control of coupled linear and angular motion for ultrahigh precision movement. IEEE/ASME Trans Mech 2015;20:84 92. https://doi.org/10.1109/ TMECH.2014.230182414361442.

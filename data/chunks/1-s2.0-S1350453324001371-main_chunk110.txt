@@ -1,0 +1,1 @@
+The software receives inputs of force vectors and magnitudes in the form of a 3 by 1 array (e.g. [Fx Fy Fz]) and applies its proprietary calculations to generate the appropriate actuation of the 3 motors to generate the desired force. This is felt by the user as a pushing/pulling force.

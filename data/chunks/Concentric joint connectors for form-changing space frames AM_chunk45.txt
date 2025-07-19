@@ -1,0 +1,1 @@
+The key insight was to re-examine the joints within rigid space frame structures, and understand how these resisted compressive forces, and then see if the principles could be combined with the efficiency and simplicity of the tension cords.

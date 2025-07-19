@@ -1,0 +1,1 @@
+This partially overcomes the issue noted previously; the seemingly conflicting desire to locate rigid materials as close as practically possible to the point where the struts join together, whilst still allowing clearance for the struts to pivot around the node point. 3.5.

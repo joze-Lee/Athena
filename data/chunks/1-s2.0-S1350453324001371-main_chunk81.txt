@@ -1,0 +1,1 @@
+5 is expanded to show how the code within this program determines the appropriate force output f and the ucor to the output. Fig. 6 shows the control logic.

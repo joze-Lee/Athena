@@ -1,0 +1,1 @@
+5. The constraint controller contains two additional constraint sets: the first, a speed limit set, and the second, an allowable threshold set. 3.2.1.

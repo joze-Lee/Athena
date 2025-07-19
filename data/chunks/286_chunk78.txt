@@ -1,0 +1,1 @@
+The overall depth of cut would then be the distance moved by the moving nozzle added to the effective cutting depth of the jet at the pressure as set. Testing of the water-jet shape showed that the spray pattern of the output jet affected its cutting ability.

@@ -1,0 +1,1 @@
+[14] Tzemanaki A, Al GA, Melhuish C, Dogramadzi S. Design of a wearable fingertip haptic device for remote palpation: characterisation and interface with a virtual environment. Front Robot AI 2018;5:311495. https://doi.org/10.3389/ frobt.2018.00062.

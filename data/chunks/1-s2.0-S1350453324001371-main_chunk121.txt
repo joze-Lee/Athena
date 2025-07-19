@@ -1,0 +1,1 @@
+11) clearly show the effectiveness of the filter circuit; the resulting errors with the filters are reduced by over 90 %. 4.2. Effects of increasing motor speed The encoder errors were also tested as a function of motor speed measured in revolutions per second (rpm).

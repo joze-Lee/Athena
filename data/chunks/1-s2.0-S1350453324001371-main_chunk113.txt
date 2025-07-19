@@ -1,0 +1,1 @@
+This ensures an optimal balance between the allowable speed and precision of the end effector. 4. Motor-Encoder testing and results Rotary encoders are notoriously susceptible to signal noise.

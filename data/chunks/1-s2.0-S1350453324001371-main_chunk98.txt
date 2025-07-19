@@ -1,0 +1,1 @@
+The constraint controller becomes active at the boundaries of the constraint region, generating forces that keep the system within pre-defined boundaries. Fig. 7.

@@ -1,0 +1,1 @@
+To connect the linear actuators/legs to the stationary/fixed top and lower mobile base, existing octahedral robotic surgery platforms typically utilize two degree-of-freedom pivot joints. These are robust, but not concentric at the end vertices of the adjacent legs.

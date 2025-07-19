@@ -1,0 +1,1 @@
+It is important to keep the probe s degree of motion within the surgical environment. The paper is intended to set out the initial results of this control system, to set the scene for further analysis, simulation and testing. 1.3.

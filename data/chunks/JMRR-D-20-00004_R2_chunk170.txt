@@ -1,0 +1,1 @@
+The platform s end effector position. A plot representing the end effector path in (A) 3D and (B) 2D, (C) the position of the end effector as a function of time as displayed in MATLAB s scope block.

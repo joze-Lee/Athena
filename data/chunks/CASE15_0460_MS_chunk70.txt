@@ -1,0 +1,1 @@
+If we position the water jet nozzle on the boundary of the forbidden region, then we know exactly the nozzle stand-off distance, which is the distance between the nozzle and target tissue/ cancerous tumor.

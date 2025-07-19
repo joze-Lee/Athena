@@ -1,0 +1,1 @@
+The extent of the noise is a property of the particular encoder in use. In our case, Tyco Electronics DPL12 Rotary Encoder produces chattering noise and rotational noise. These signal artifacts, if not dealt with, falsely trigger the software interrupts which lead to highly inaccurate encoder readings.

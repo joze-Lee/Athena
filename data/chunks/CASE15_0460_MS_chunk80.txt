@@ -1,0 +1,1 @@
+However, the effectiveness of the above parameters is dependent on the type and the mechanical properties of the target tissue such as the tensile strength, compressive strength, modulus of elasticity and hardness. An increase in any of these properties will increase the strength of the material and thus the resistance to a water jet.

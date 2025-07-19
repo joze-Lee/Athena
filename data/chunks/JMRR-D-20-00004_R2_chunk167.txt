@@ -1,0 +1,1 @@
+Each strut, acting as part of a truss, can change in length (telescope), and thus their combined variations can change the overall form of the frame. The CCJ enables multiple struts to be connected and pivot around each node point.

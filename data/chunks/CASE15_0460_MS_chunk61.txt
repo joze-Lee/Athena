@@ -1,0 +1,1 @@
+The last test was conducted to explore the effect of the nozzle s orifice diameter and time of cut on the depth of water jet (Fig. 13). Two sizes of orifice diameters were used (0.6 mm and 0.84 mm); the water jet applied for a period of 5s intervals (5- 50 s) with a nozzle stand-off distance of 3.9 mm and 20 bars of applied f low pressure.

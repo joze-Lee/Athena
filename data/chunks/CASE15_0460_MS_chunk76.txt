@@ -1,0 +1,1 @@
+The depth of cut is directly related to the source pressure, time of cut, and nozzle diameter. The depth of cut is inversely related to the stand-off distance.

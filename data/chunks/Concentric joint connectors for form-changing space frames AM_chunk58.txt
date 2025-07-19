@@ -1,0 +1,1 @@
+A 2-piece end collar (CL1, CL2) with a conical form is located at the end of each strut (S); i.e. their cross-sectional area decreases towards the node point. This provides rigid support for the barrel and in turn the cord very near to the convergence point at the node.

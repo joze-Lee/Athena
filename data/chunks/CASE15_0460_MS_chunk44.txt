@@ -1,0 +1,1 @@
+The resultant trajectory, shown in red, shows the path of the robot s end-effector crossing the inadmissible region. To avoid this, the input velocity must be limited to be below the critical value at all times.

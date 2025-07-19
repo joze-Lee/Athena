@@ -1,0 +1,1 @@
+Experimental outcomes of measuring the depth of water jet cut were combined with haptic regional constraints to advance the safety of performing surgical procedures. The reliability, accuracy and performance of the prototype robot were tested in a mock surgical procedure mimicking a surgery on the lower lumbar vertebrae.

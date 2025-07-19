@@ -1,0 +1,1 @@
+Flow simulation analysis shows the pressure and velocity distribution for  0.6 mm diameter nozzle (a, b respectively). Preprint submitted to 2015 IEEE International Conference on Automation Science and Engineering. Received March 20, 2015.

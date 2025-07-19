@@ -1,0 +1,1 @@
+For the kinematics that control such a device, measures must be taken to work around this non-concentricity, e.g. the use of more complicated formulae to calculate the geometric form of the device.

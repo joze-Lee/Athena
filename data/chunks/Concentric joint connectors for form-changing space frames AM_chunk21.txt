@@ -1,0 +1,1 @@
+There- fore, at each node point, a joint is required where at least 3 struts need to pivot with 3 degrees of freedom (DOF) around the nodes where the ends of the struts are connected.

@@ -1,0 +1,1 @@
+Experimental water jet cutting, tissue removal from lamb femur (a), meat separated off the bone (b). The robot platform built used high-speed geared DC motors, coupled to leadscrew mechanisms, to extend and retract the platform s legs. Whilst cost effective, the DC motors were inadequate in actuating the lengths of the legs in a timely manner.

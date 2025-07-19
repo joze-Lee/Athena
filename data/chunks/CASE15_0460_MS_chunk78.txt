@@ -1,0 +1,1 @@
+The most consistent parameter that affects the depth of water jet cutting depth is the time of applied water. The experimental data (Fig. 13) shows that a constant increase of applied time gives a constant increase in the depth of cut.

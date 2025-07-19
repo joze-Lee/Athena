@@ -1,0 +1,1 @@
+2.3. Inverse kinematics The input controller specifies the position of the end-effector in the positional control loop. In this scenario, the user specifies the orientation and position of the flexible probe in 6DOF.

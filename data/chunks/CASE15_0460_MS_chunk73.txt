@@ -1,0 +1,1 @@
+Knowing the value of one element of the group of elements that influence the depth of water jet cut, which includes: flow pressure, nozzle diameter, nozzle stand-off distance, and time of cut, would be sufficient to determine the other figures VI.

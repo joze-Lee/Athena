@@ -1,0 +1,1 @@
+The joints (Fig.9) consist of a number of sub- assemblies (SA), which each connect to the ends of the linear actuators (LA), or legs, and the mobile base (MB). A flexible, slightly elastic cord (C) passes through each subassembly. The cord is precisely adjusted via a threaded mechanism (TM) to pre-tension it.

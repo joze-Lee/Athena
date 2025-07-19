@@ -1,0 +1,1 @@
+A cylinder with radius r centred about the origin O. Table 2 Constraint set for cylindrical constraint. Axis Region Value x Upper boundary, UBx r   cos   Lower boundary, LBx  r   cos   y Upper boundary, UBy r   sin   Lower boundary, LBy  r   sin   z Upper boundary, UBz z5 Lower boundary, LBz z4 S. Morad et al.

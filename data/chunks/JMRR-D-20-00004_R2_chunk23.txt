@@ -1,0 +1,1 @@
+To explain the evolution of the connector joint design used in the surgical robot parallel manipulator, the following section examines how the joint design originated from work on form- changing space frame structures, comprised of multiple telescopic struts. 1.3.

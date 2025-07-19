@@ -1,0 +1,1 @@
+This is done by incorporating a velocity limit constraint that generates a haptic force that slows the user down if the critical velocity is exceeded. The mathematical equations governing the role of velocity limit constraint controller is represents below: Where f is force magnitude, V is velocity, ft is threshold force, and i is x, y, z.

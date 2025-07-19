@@ -1,0 +1,1 @@
+(B) (A) Surgical robot platform with a novel concentric joint for minimal invasive procedures 5 manipulator, it is typical for multiple copies of distinct two-link joints to be grouped together as closely as is practical. This compromise is adequate in a mechanical sense for many purposes, but then concentricity is clearly not achieved.

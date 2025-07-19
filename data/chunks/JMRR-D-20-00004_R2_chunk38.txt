@@ -1,0 +1,1 @@
+In both nature and man- made objects, there are countless joint mechanisms that connect together 2 elements that can pivot around a point with 3DoF, e.g. the ball-and-socket joint found in the human shoulder.

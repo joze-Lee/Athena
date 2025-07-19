@@ -1,0 +1,1 @@
+Data was adjusted for the 0.2 second delay between the imaging of the wavelength at the meatus and urine flow rate being detected at the flow meter.

@@ -1,0 +1,1 @@
+Connector joint assemblies, shown in (a) section and (b) side view. B. The design of the control system The control system comprises two main elements: the electronic hardware, and its programming language.

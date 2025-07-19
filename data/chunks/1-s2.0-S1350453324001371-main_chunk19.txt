@@ -1,0 +1,1 @@
+The proposed methodology offers the surgeon with two types of force information via the haptic feedback control ar  chitecture: virtual fixture force and needle-tissue contact force. Souipas et al.

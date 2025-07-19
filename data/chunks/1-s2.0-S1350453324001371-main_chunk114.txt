@@ -1,0 +1,1 @@
+When the quadrature encoder is rotated, it acts like two switches producing cyclical outputs operating at 90 out of phase with one another. It is this phase shift that allows the software to determine if the shaft is rotating clockwise or anticlockwise. These switches produce noise when they latch on and latch off.

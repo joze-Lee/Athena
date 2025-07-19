@@ -1,0 +1,1 @@
+CONCLUSION We have developed a surgical robotic system that could be used in spinal surgery procedures, with promising early results. Successful feasibility tests, modelling, and simulations were all undertaken.

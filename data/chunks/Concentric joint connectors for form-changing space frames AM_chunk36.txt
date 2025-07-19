@@ -1,0 +1,1 @@
+3.3 Mechanisms for concentric joints As part of the growing interest in variable geome- try truss structures within the robotic community since the 1990s, several research groups have been developing novel designs for truly concentric free- rotation joints (Fig. 9), such as those by Bosscher/Ebert-Uphoff (2003) and Hamlin (1994). Figure 9.

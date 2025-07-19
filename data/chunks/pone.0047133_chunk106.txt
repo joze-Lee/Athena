@@ -1,0 +1,1 @@
+Wrote the paper: AW Figure 7. Flow rate measurement accuracy can be improved if an individual s dilation parameter is calibrated for. The open symbols show the predicted Qmax based on Lmax multiplied by the sample mean value of Qmax/Lmax.

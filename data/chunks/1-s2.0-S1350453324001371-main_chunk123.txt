@@ -1,0 +1,1 @@
+The error increases by approximately 0.1 % when the speed is increased from 60 rpm to more than three times its nominal speed, 200 rpm. Due to the encoder running at more than three times its rated speed, there is a large increase in error. At 400 rpm, the increase is slightly smaller, about 0.03 %.

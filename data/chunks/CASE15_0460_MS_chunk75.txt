@@ -1,0 +1,1 @@
+The parameters, including water pressure, orifice diameter, stand- off distance of the nozzle, and time of cut, were all measured in relationship to each other using two different nozzle sizes. The experimental result shows that the depth of the water jet cut is significantly dependent on the various parameters.

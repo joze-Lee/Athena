@@ -1,0 +1,1 @@
+As a result of carrying out the previous experimental tests and outcomes, we are now able to define the depth of water jet cut, or the jet effective length in which it starts to cut the tissue, for certain known parameters this include orifice diameter, stand-off distance, source pressure, and time.

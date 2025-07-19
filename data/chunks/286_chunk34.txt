@@ -1,0 +1,1 @@
+To overcome this, a parallel manipulator robotic platform, which is also called the octahedral platform [11] (OP), has been designed that acts as a mount for the tools (T), and produces the desired range of movements.

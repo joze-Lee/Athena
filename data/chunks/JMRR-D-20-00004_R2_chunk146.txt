@@ -1,0 +1,1 @@
+This block contains sensors that sense the position of the X, Y, and Z coordinates of the end effector. Fig.16: The configuration of a 3-3 robot platform. (A) Isometric view and (B) plan view show the attachment points of the six links to the fixed top (B) and to the moving platform (P).

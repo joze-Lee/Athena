@@ -1,0 +1,1 @@
+A set of constraints and bound  aries that are impermissible or inadmissible to the robot are specified. Fig. 5 shows the basic structure of the control loop used for haptic rendering.

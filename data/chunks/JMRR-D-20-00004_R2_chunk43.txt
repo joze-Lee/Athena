@@ -1,0 +1,1 @@
+CC component has been made to rotate due to the loads from the struts acting as moment forces (FM) upon it. LF now do not pass through the convergence point (CP). At the ball-and-socket joint JBS1 the strut (S1) connected to the ball is now in contact with the socket edge of the socket at point P1.

@@ -1,0 +1,1 @@
+A parallel manipulator robotic platform has been designed that acts as a mount for the tools (T), and produces the desired range of movements. The octahedral platform is 6DoF parallel manipulator, which is comprised of a fixed top (FT), and a mobile base (MB), connected by six individually-powered extensible linear actuators (LA) or legs.

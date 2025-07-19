@@ -1,0 +1,1 @@
+Because of the  powered  nature of our flexible surgical tool (to be introduced in a separate paper), by means of either mechanical drill or a fluid high-pressure pump, the handheld use of the tool is prone to vibration and fluid impact force. Consequently, this leads to control difficulties during critical operation procedures.

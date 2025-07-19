@@ -1,0 +1,1 @@
+8, the black arrows show the same path inputs from ucor. Due to the constraint control, the arrows will never enter the forbidden area. Fig.

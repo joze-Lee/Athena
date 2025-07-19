@@ -1,0 +1,1 @@
+The Design of the Concentric Joint 2.1. Requirements for the joint In a form-changing space frame, the struts can change length independently of one another. Therefore, at each node point, a joint is required where at least 3 struts need to pivot with 3 degrees of freedom (3DoF) around the nodes where the ends of the struts are connected.

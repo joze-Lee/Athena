@@ -1,0 +1,1 @@
+The degree of this elasticity would have to be chosen carefully, as it would need to balance sufficient  slackness  to allow the struts to pivot freely versus ensuring the strut ends maintain contact with one another. The elasticity would also have to be chosen to resist the forces acting on the joint i.e.

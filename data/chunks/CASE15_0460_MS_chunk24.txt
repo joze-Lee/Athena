@@ -1,0 +1,1 @@
+When the cables are tightened via tensioning screw, the tip bends to form an approximate arc or J-shape, with the radius of the arc diminishing as the tension increases (Fig.2). As is shown in Fig. 1, when the instrument was mounted on the robot platform, a stepper motor was installed at the proximal end to operate the tensioning screw.

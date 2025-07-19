@@ -1,0 +1,1 @@
+The flexible probe was mounted on the platform s end-effector, therefore, this enables the orientation of the probe to be manipulated in the three translational coordinates (x, y and z) and three rotational orientations (pitch  , roll   and yaw  ).

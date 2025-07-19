@@ -1,0 +1,1 @@
+Eqs. (1) and (2) are the mathematical equations governing the constraint controller, where UB and LB are the upper and lower boundaries respectively, f is force magnitude, and i the position along each of the Cartesian axis x, y, z. As an example of a geometric constraint, cylindrical constraints can be defined using 2D polar coordinates (Fig.

@@ -1,0 +1,1 @@
+Virtually all mechanical joints with more than 1DoF connect only a pair links. In those applications where more than two components are intended to be joined together, such as a hexapod Fig. 4.

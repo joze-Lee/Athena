@@ -1,0 +1,1 @@
+HAPTIC MODELLING In this section, two forms of haptic technology were explored, haptic rendering of rigid surfaces and trajectory supervision.

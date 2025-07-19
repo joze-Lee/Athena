@@ -1,0 +1,1 @@
+A new experimental method of controlling the depth of water jet cut is developed. The haptic feedback controller is based on constraint set approach to define 3D boundary constraints based on five key types of constraints.

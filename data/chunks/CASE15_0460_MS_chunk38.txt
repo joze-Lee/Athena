@@ -1,0 +1,1 @@
+It also computes a force feedback whose magnitude is proportional to the severity of the constraint exceeded. The mathematical equations governing the role of the constraint controller is represents below: where UB and LB are upper and lower boundaries respectively, f is force magnitude, and i is x, y, z. Based on the work done by A. Kapoor, et al.

@@ -1,0 +1,1 @@
+Mechanisms for concentric joints Most hexapod robots are not truly octahedral in their form, due to the layout of the joints at their vertices. The connections between the struts and the rigid plates are via joints with 2DoF, in the form of revolute/hinge joints.

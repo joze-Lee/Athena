@@ -1,0 +1,1 @@
+To impose the desired end- effector orientation on the robot platform, each of the six legs of the platform needs to be calculated to be the required length. In their paper [28], the authors introduce the full details of the robot platform s ki  nematics, and they formulate the inverse kinematic relationships for a 3 3 surgical robot platform. 2.4.

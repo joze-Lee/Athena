@@ -1,0 +1,1 @@
+The kinematics were simpler as a direct result of using the concentric joints, which created a form changing platform with the underlying geometry of a pure octahedron, rather than a complex skew hexagonal prism of existing platforms.

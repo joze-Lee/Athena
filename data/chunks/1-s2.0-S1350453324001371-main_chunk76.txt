@@ -1,0 +1,1 @@
+In addition to determining the appropriate direction of force inser  tion, the CC also decides in which direction this force should be applied, which is in the opposite direction of the direction of error, normal to the boundary at which the constraint is applied.

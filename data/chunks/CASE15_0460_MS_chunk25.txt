@@ -1,0 +1,1 @@
+The flexible probe was equipped with a water jet cutting system that uses pressurized water to dissect and resect body tissue (Fig. 3). The setup is connected to a Novint Falcon haptic device controller through a network of electronics, a microcontroller and a computer.

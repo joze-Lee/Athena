@@ -1,0 +1,1 @@
+L~V=f  8  Equation 8 follows from Equation 7, where the unsteady development of a two-dimensional droplet describes the three- dimensional shape of the jet, and thus the wavelength L scales directly with the flow velocity V. This can also be expressed in terms of flow rate Q, and orifice cross sectional area A, as in Equation 9.

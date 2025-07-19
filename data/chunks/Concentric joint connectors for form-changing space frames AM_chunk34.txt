@@ -1,0 +1,1 @@
+Ball and socket joints - misaligned Should the loads on the struts (S) change to result in tension forces (FT), the central connection will ro- tate back in the opposite direction, as the struts exert a pulling force upon it via the ball/socket joints. This rotation could be sudden, and difficult for any con- trol system to predict.

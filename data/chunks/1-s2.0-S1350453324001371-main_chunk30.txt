@@ -1,0 +1,1 @@
+A technique for realistic modelling of human soft tissue, incorporating dynamic soft tissue characterisation was introduced by Song et al. [19]. It uses maximum likelihood theory, nonlinear filtering, and the nonlinear finite element technique (NFEM) to describe nonlinear tissue deformation behaviour.

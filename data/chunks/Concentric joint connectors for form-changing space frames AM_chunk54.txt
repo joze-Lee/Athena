@@ -1,0 +1,1 @@
+Cross-section of struts tied together with cords 4.4 Refinements to the design This crude arrangement would function as a 3 DOF joint for 3 or more struts, but there are some im- portant refinements that can be made to greatly im- prove the joint s performance, shown in Figure 11. Figure 11.

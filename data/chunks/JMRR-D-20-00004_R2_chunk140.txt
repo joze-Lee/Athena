@@ -1,0 +1,1 @@
+Symbol Physical description   Rotation about X-axis   Rotation about Y-axis   Rotation about Z-axis   Rotational matrix   Attachment point of leg i in the top plate   Position of the top plate relative to the base plate   Attachment point of leg i in the base plate   Nominal length of leg i (A) (B) Fig. 15.

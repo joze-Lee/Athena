@@ -1,0 +1,1 @@
+Any level of control accuracy can be achieved by adjusting this scaling factor. Scaling control improves the surgeon s dexterity to pre  viously unattainable levels of precision. The NF can only input 3DOF.

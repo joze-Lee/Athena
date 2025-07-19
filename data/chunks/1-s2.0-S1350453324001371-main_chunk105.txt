@@ -1,0 +1,1 @@
+In order to correct the motion, a suitable acceptable error threshold must be established, beyond which the constraint controller must intervene. Through empirical testing integrated with MATLAB GUI demonstrating a geometrical constraint of various shapes (Fig. 9), 10 mm has been found to be an acceptable value for this threshold.

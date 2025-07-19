@@ -1,0 +1,1 @@
+From this, the direction of the force vector depends on which of the four quadrants the robot is in, so as to act to force the user inwards towards the centre of the cylinder. By inverting the constraint set, the constraint controller will keep the robot outside the boundaries. 3.2.

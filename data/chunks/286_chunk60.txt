@@ -1,0 +1,1 @@
+A generic Proportional-Integrator-Derivative (PID) controller attempts to drive the manipulator along the desired trajectory. The output data of the behavior of the surgical platform system is obtained via a position sensor block. Fig.

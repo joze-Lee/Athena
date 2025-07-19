@@ -1,0 +1,1 @@
+This is demonstrated in Fig. 7, which shows the predicted versus measured flow-rate for an individual, where the individual s dilation parameter has been calculated at one point, and used to predict the peak flow-rate at several other voiding events, using the individual s self measurement of Lmax.

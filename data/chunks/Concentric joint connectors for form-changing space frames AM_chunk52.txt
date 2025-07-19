@@ -1,0 +1,1 @@
+Due to the ends of the struts not being joined rigidly to each other, but only pulled in- to contact with each other by the flexible cord, they can effectively pivot relative to each other, giving 3 DOF. Figure 10 shows a cross-section view through the joint configuration.

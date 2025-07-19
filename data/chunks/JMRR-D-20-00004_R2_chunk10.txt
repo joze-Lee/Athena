@@ -1,0 +1,1 @@
+Currently, spinal surgical tools are reliant on drills and cutting tools which vary in their principles of operation. However, these tools cannot navigate around small corners present in the complex bones of the spinal column (Fig. 1-A).

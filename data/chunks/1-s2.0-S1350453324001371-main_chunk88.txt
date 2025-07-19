@@ -1,0 +1,1 @@
+Medical Engineering and Physics 132 (2024) 104236 5 r =   x2 + y2   (3)   = tan 1(y x ) (4) Table 2 present the constraints of the cylinder, including LB and UB of the Cartesian coordinates (x, y and z).

@@ -1,0 +1,1 @@
+There are, in total, six motor- encoder functional cells incorporated in the robot. Fig. 10 shows the test cell setup, which consists of a DC motor, rotary encoder, and adapter.

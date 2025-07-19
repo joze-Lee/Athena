@@ -1,0 +1,1 @@
+Fig. 1. A 3-3 parallel manipulator with mounted flexible unit at the end effector (left), and the attachment of the stepper motor to the tensioning screw of the flexible tip via an adapter (right).

@@ -1,0 +1,1 @@
+A position-sensitive diode sensing approach identifies misalignment, while a feed-forward feedback compound controller minimizes misalignment errors. The approach was experimentally validated on a three DOF planar micro/nano positioning stage, con  firming its capacity to give both linear and angular measurements.

@@ -1,0 +1,1 @@
+Linear actuator For the variable-length linear actuators, or legs, a relatively simple single-portion extension configuration was used. This configuration was preferred over multiple-portion extension devices; these are normally used when the retraction/extension ratio needs to be greater than 1:1.7.

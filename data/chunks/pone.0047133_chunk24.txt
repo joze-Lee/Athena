@@ -1,0 +1,1 @@
+Because L is over an order of magnitude greater than Dmin, the radius of curvature in the streamwise direction will be much larger than the radius of curvature in the x-y plane (which will be approximately Dmin=2), and its contribution to the internal pressure within the jet is neglected.

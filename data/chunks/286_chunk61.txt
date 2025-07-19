@@ -1,0 +1,1 @@
+13c shows the x, y, and z values of the position of the body block, representing the end effector moving over time as the model simulates. Fig. 13a represents the 2D form and Fig.

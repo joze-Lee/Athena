@@ -1,0 +1,1 @@
+2. Code structure used to process the user input (NF) into the meaningful motion of the robot platform. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)

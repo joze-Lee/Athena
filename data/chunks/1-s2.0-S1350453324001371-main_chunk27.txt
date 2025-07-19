@@ -1,0 +1,1 @@
+Wearable Haptic Devices (WHDs) such as Hand Exoskeletons (HE) have emerged as the future focus for haptic devices. WHDs such as wearable Fingertip Haptic Device (FHD) [14 16] can provide more freedom of movement, mimic the hand movements of the operator and potentially remove the cognitive gap in tele-operation.

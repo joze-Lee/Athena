@@ -1,0 +1,1 @@
+Constrain set To test the control loop, a virtual environment is created with basic constraints. Through modifying the constraint set by which the CC samples, the output of the haptic device and the robot platform can be controlled. In [23], the methods of superposition and linear combination can be used to define any boundary system.

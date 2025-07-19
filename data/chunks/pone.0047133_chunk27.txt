@@ -1,0 +1,1 @@
+A further simpification will be to neglect the second derivatives of velocity in the streamwise direction, which is reasonable when LwwDmin since in this case the jet surface will not deform rapidly along the jet axis. This latter assumption in effect neglects the shear forces due to velocity gradients in the streamwise direction.

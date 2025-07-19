@@ -1,0 +1,1 @@
+For the group of healthy volunteers the statistically significant (pv0:05) positive correlation gave the following relationship between Qmax and Lmax Qmax~kLmax  10  where k is found to be 0:5mLs{1mm{1. The accuracy of this estimate of Qmax is +20% (2 standard deviations).

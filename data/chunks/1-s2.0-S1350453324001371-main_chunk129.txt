@@ -1,0 +1,1 @@
+The scaling controller sits between the input devices and the nominal controller. Signal p is modified to produce signal  p, which is the scaled control output signal. For macro-scale,  p = p, and for micro-scale,  p = p/100.

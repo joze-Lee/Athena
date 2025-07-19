@@ -1,0 +1,1 @@
+II. SYSTEM DEFENITION A 3-3 parallel manipulator platform with 6DoFs was constructed (Fig.1). The platform is comprised of a fixed top, and a mobile base, connected by six individually- powered extensible linear actuators.

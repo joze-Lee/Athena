@@ -1,0 +1,1 @@
+What initially appears to be a simple requirement (design a mechanical joint allowing more than two linked struts/links to share a common center of rotation) turns out to be a deceptively difficult task to solve. This may be due to the relatively rare instances where such a joint would be required.

@@ -1,0 +1,1 @@
+The flexible surgical tool is comprises of two units: a flexible probe and a water jet cutting device. These two integrated units is then mounted on a six degrees of freedom (6DoFs) parallel manipulator, designed by the authors [14] , completing the surgical robot system.

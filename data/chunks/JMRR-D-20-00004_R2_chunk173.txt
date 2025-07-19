@@ -1,0 +1,1 @@
+In the future, the development of the tele-operation scheme for the robot will be presented, including the design of control and haptic feedback system. References [1] M. Diana, J. Marescaux, Robotic surgery, Brit J Surg. 102(2) (2015) 15 - 28.

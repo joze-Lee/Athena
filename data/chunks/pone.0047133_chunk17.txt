@@ -1,0 +1,1 @@
+Modelling non-axisymmetric jets When a liquid jet issues from a non-cylindrical aperture, the jet formed tends to undergo large deformations under the action of surface tension. For instance, for a jet issuing from an elliptic aperture, the flow pattern is similar to that shown in Fig. 1.

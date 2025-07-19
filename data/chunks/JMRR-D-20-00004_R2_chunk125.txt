@@ -1,0 +1,1 @@
+Modified connector joint To connect the linear actuators/legs to the stationary/fixed top and lower mobile base, near-concentric connector cord joints (Figure 14-A, B), were developed and manufactured for the prototype, based on the principles described in section 3.

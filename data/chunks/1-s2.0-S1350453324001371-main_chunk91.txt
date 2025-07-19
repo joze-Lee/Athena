@@ -1,0 +1,1 @@
+Since the input control signals are monitored by the constraint controller; The robot end effector s trajectory or path will never enter an inadmissible region as long as the end effector s real-time position is always equal to the input.

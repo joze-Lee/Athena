@@ -1,0 +1,1 @@
+This permits the actuator portions to move relative to each other along their shared principal axis, but not rotate around it, in other words, it acts as a  prismatic  bearing or joint. Figure 13 shows an expanded engineering drawing of a complete  leg  with all sub-components. 5.3.

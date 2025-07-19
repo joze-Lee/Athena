@@ -1,0 +1,1 @@
+In robotic-assisted MIS, real-time identification of soft tissues is important to provide accurate force feedback during robot s surgical activities. In their study, Zhu et al. introduces an online approach for soft tissue characterisation.

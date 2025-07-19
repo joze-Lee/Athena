@@ -1,0 +1,1 @@
+In the next script, the GUI is initialized. A menu bar, la  bels, and position values indicating the orientation and location of the end effector are created in the on-screen user interface. Finally, MATLAB reads the input from the NF and performs the inverse kinematics to get the six-leg lengths.

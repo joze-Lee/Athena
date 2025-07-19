@@ -1,0 +1,1 @@
+During the robot test, it was found that the probe s end effector was very sensitive to the movements of the input device, the NF. This problem could be solved by introducing a scaling system into the control scheme [31].

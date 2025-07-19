@@ -1,0 +1,1 @@
+The constraint controller monitors the state of the system and only becomes active at the boundaries of the constraint set. Here, the constraint controller modifies the nominal control signals (Unom) and outputs a corrected control signal (Ucor) which prevents the system from entering the restricted region.

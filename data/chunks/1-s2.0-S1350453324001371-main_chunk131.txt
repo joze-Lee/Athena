@@ -1,0 +1,1 @@
+This does not provide a complete definition of the robot s end effector orientation. A MATLAB GUI was created in this study to specify the remaining 3DOF, partially resolving the problem. Future versions of this device should use a 6DOF haptic input device, such as Phantom Omni, to replace the NF and GUI.

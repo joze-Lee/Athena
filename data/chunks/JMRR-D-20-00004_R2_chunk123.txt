@@ -1,0 +1,1 @@
+Otherwise, there might be tendency for the rotation of the lead screw to simply rotate the portion intended to be extended/retracted, due to friction between the lead screw and the internal thread. This can be avoided by using a  key  in either the barrel or piston, which engage/slides within a  keyway  or slot within the other portion.

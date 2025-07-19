@@ -1,0 +1,1 @@
+Should the loads on the struts (S) change to FT (blue arrow), the central connection will rotate back in the opposite direction (blue rotated arrow), as the struts exert a pulling force upon it via the ball/socket joints. This rotation could be sudden, and difficult for any control system to predict.

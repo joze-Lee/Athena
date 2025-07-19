@@ -1,0 +1,1 @@
+4 PATH TOWARDS A SOLUTION 4.1 Tension structures For the resolution of purely tension loads, multi-link concentric joints that can resolve tension forces, but not compression, have been in common use for mil- lennia   one example being those within a structure woven from flexible fibres or cords, such as a fish- ing net.

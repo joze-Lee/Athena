@@ -1,0 +1,1 @@
+Concentric joints by Bosscher/Ebert-Uphoff (left) and Hamlin (right) When attempting to design such a concentric 3 DoF joint for 3 or more convergent struts, it turns out to be a deceptively difficult task. Instinctively, the designer may wish to locate rigid material pre- cisely at the pivot point (i.e.

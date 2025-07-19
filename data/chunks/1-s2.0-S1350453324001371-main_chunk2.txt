@@ -1,0 +1,1 @@
+Previously, we introduced the surgical robotic platform (SRP) with a novel concentric connector joint (CCJ). This study aims to develop a haptic control system that integrates an active constraint controller into a surgical robot platform.

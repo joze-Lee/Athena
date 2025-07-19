@@ -1,0 +1,1 @@
+(a) Computational fluid dynamics (CFD) indicates the pressure distribution and shape of a liquid stream exiting from an elliptical orifice such as the urethral meatus. (b) Experimental models with a rigid walled elliptical orifice produced the characteristic flow pattern of the urine stream (Dmin~2mm, Q~1:2l=m).

@@ -1,0 +1,1 @@
+Fig. 2 shows the structure of the code used to translate this user input into meaningful motion for the platform. Programming begins with the definition of global vari  ables, inputs, and outputs.

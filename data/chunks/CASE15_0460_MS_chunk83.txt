@@ -1,0 +1,1 @@
+In this paper we established and proposed the first step in the development of a system that implementing a haptic method of controlling the depth of water jet cut. The next step is to advance the testing and the modelling of the haptically controlling the depth of water jet cut. REFERENCES [1] D.A.

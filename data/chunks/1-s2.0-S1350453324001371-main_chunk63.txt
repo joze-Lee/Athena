@@ -1,0 +1,1 @@
+Simulation As a validation of the inverse kinematics derived in [28], a MATLAB simulation was created of a robot model receiving inputs from an NF to model the movement of a 6DOF model.

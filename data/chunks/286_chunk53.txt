@@ -1,0 +1,1 @@
+10. Code structure. The position of the end-effector is specified by the input controller.

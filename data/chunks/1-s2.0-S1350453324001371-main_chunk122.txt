@@ -1,0 +1,1 @@
+To control the motor s speed, pulse width modulation was used. The results for three different motor speeds are shown in Fig. 12.

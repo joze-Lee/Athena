@@ -1,0 +1,1 @@
+Similarly, the gradients in pressure along the axis of the jet will be at least an order of magnitude smaller than pressure gradients within the x-y plane and so we neglect streamwise pressure gradients. Therefore the pressure within the jet is assumed to be solely due to the curvature of the surface in the x-y plane.

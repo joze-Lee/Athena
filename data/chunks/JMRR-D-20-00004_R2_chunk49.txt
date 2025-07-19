@@ -1,0 +1,1 @@
+Typically, however, these joints are configured so that each strut has a separate connection to one of the rigid plates (Fig.5A), rather than being concentric with the end of the adjacent strut (Fig.5B).

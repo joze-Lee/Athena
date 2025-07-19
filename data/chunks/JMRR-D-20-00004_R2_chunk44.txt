@@ -1,0 +1,1 @@
+Thus, a load resulting in a FC upon strut S1 would impose a bending moment at this point of contact (P1) upon the end of strut S1 as it induces further rotation of the central connection.

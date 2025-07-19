@@ -1,0 +1,1 @@
+The streamwise flow velocity in the jet is typically around 1ms{1, which gives a skin friction coefficient due to the action of aerodynamic drag on the fluid stream of around 0.012 (assuming a laminar air boundary-layer at a Reynolds number based on L of 3000).

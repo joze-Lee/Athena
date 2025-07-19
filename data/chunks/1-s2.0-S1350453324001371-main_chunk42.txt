@@ -1,0 +1,1 @@
+An approach based on the LISM technique is suggested to provide laser interferometry-based guiding (LIG) for precise placement of a robot manipulator in high precision manufacturing processes.

@@ -1,0 +1,1 @@
+This configuration was chosen over a serial manipulator due to it producing an inherently more stable end effector position. The octahedral platform is intended to be suspended from a rigid structure (RS) located above the prone patient (P). Fig.

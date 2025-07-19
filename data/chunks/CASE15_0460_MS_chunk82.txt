@@ -1,0 +1,1 @@
+Successful feasibility tests, modelling, and simulations were all undertaken. We developed and test a method to determine the depth of water jet cut such that it does not affect (hit) the surrounding tissues. A working positional control structure that incorporates haptic technology in a flexible surgical robotic device was presented.

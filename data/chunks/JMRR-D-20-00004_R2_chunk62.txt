@@ -1,0 +1,1 @@
+Tension structures For the resolution of purely tension loads, multi-link concentric joints that can resolve tension forces, but not compression, have been in common use for millennia one example being those within a structure woven from flexible fibers or cords, such as a fishing net.

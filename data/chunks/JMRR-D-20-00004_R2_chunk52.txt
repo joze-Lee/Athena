@@ -1,0 +1,1 @@
+The preferred joint type would allow adjacent pairs of telescopic struts to share a common connection point with the rigid plates (thus three components are connected), and this same point would act as a center of rotation for the end points of the struts.

@@ -1,0 +1,1 @@
+The force vector f is then sent to the haptic device to provide corrective kinaesthetic haptic feedback to the user. A closed-loop feedback control structure of the NC and CC monitors the real-time state of the system, in this case, the orientation of the robot platform. 3.1.2.

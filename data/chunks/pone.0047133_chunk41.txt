@@ -1,0 +1,1 @@
+The computational and experimental models both produce flow patterns which show a characteristic initial wavelength (L) representing the distance between the orifice and the first pinch point as shown in Figure 2. Further examples of computed jet flows are shown in Fig. 3.

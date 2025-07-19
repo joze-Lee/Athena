@@ -1,0 +1,1 @@
+Failure due to tension loading would occur when the cord elongates beyond its elastic limit; when the load was removed, this would lead to a similar lack of contact between the strut ends as above.

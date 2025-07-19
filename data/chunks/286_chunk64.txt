@@ -1,0 +1,1 @@
+B. Simulation Using Graphical User Interface (GUI) In order to validate the inverse kinematics formulated in section III-B, a simulation of the HexaSlide Manipulator type designed by Merlet and Gosselin [14] was created in MATLAB that simulated the movement of a 6DoF model receiving inputs from the Novint Falcon.

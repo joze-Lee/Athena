@@ -1,0 +1,1 @@
+Thus, the robot s trajectory monitoring is achieved by incorporating a closed-loop feedback mechanism. In this case, a proportional-integral- derivative (PID) controller was implemented to ensure that the robotic platform s leg lengths increase to the desired length in the optimal time. This is illustrated by signal h in Fig.

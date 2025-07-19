@@ -1,0 +1,1 @@
+This paper explores the mechanical design of a robotic framework, developed for use in this surgical procedure, as the guide and moving mount for an innovative surgical tool. The framework is a parallel manipulator, and uses novel concentric joints to simplify both the mechanical design of the framework and the kinematics.

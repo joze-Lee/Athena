@@ -1,0 +1,1 @@
+Active constraints It is typically assumed when examining the active constraint defi  nition process that the constraint geometry has either been defined a priori or can be produced using a generated point-cloud [20]. Creating and combining primitive shapes (such as spheres, cylinders, etc.) is another common application.

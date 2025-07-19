@@ -1,0 +1,1 @@
+[15] in highlighting basic geometric constraints relevant for constrained control in surgical assistant robots, five main types of constraints were defined. For spherical constraints, as example of one of the geometric constraints, polar coordinates are used to define the system which is natively defined in Cartesian coordinates.

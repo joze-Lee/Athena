@@ -1,0 +1,1 @@
+The trajectory control is obtained by limiting the input velocity within a certain threshold, in order to allow sufficient time for the system to catch up with the input signals. The slow leg extensions made the threshold value very small, which meant that the velocity of the input signals was limited to a very low value as well.

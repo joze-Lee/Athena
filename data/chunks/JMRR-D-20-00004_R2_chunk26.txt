@@ -1,0 +1,1 @@
+The angular displacement (AS) between all the struts does not change; therefore, the struts can be connected at the vertices (or nodes) via simple rigid joints at the convergence points (CP), which are often spherical in form (JS). Figure 3 shows a simplified, detailed view of the same fixed spherical joint (JS).

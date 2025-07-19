@@ -1,0 +1,1 @@
+A surgical robot s position control is integrated with constraint control and inverse kinematics, resulting in haptic feedback control. We developed a computer simulation model in MATLAB and validated the inverse kinematic equations based on it.

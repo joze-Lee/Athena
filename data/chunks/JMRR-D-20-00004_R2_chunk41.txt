@@ -1,0 +1,1 @@
+The non-concentric pivot points (PP) of the joints are separated by distance D. The separation is necessary as this mechanism is not able to be transposed into the same volume as another. FC and FT acting along the axes of the struts are shown as LF.

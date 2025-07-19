@@ -1,0 +1,1 @@
+Two distinct active limitations were tested with the robot: a restricted region and a safe region. In addition to measuring conventional grabbing forces, an actuated modular force feedback-enabled laparoscopic tool was proposed by Dalvand et al. [11] that can monitor the forces of tip-tissue lateral interaction.

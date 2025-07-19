@@ -1,0 +1,1 @@
+the vertices/nodes), in order to transfer loads efficiently and within a com- pact form. Yet the relative movement of more than two connected struts around a shared pivot point (i.e.

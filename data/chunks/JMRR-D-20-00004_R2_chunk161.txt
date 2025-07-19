@@ -1,0 +1,1 @@
+The physical plant is connected to the controller model, which is encompassed of inverse kinematics and trajectory models, to perform simulation. The model is also connected to several displays representing positioning data.

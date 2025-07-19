@@ -1,0 +1,1 @@
+Prismatic bearings For mechanisms where a lead screw is used, it is necessary to incorporate measures to prevent rotation of the various portions of the actuator relative to each other along the axis of the lead screw.

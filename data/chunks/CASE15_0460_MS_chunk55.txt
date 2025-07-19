@@ -1,0 +1,1 @@
+The depth of cut was measured using a digital caliper with a blunt needle fixed at the tip of the caliper. The first test was conducted to test the effect of the pressure on the depth of cut by varying the source pressure (10-25 bars) over a period of 5s keeping the nozzle stand- off distance constant at 3.9 mm (Fig. 11).

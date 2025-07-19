@@ -1,0 +1,1 @@
+L~Q=Af  9  Since, for a given liquid density, the oscillation frequency is solely a function of droplet shape, it follows that the ratio of wavelength to flow-rate (L=Q) is purely dependent on the orifice area and aspect ratio (Dmax=Dmin) (the action of viscosity was found to be small in this case and does not influence the oscillation frequency).

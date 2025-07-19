@@ -1,0 +1,1 @@
+[21] Bettini A, Marayong P, Lang S, Okamura AM, Hager GD. Vision-assisted control for manipulation using virtual fixtures. IEEE Trans Robot 2004;20:953 66. https:// doi.org/10.1109/TRO.2004.829483.

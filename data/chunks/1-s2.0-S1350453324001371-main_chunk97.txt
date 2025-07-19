@@ -1,0 +1,1 @@
+6. Constraint controller control logic. The (NC) signals are used to control the output of the system within the pre-defined boundaries.

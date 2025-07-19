@@ -1,0 +1,1 @@
+Prototype octahedral form-changing space frame 2.3 Requirements for the joints In a form-changing space frame, the struts can change length independently of one another.

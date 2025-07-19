@@ -1,0 +1,1 @@
+When the rate of change of the input targets is critically high, the system will not have enough time to respond to the target orientations in an acceptable manner. To illustrate this, Fig.7 shows the same path inputs of Ucor in black arrows. The green trajectory is for an input velocity which is below the critical velocity.

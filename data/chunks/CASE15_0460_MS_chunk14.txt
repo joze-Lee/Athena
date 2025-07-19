@@ -1,0 +1,1 @@
+However, the absence of feedback eliminates tactile cues, masks force cues and, in some cases, leads to an increase in intra-operative injury [12]. Haptic feedback, which is generally defined as simulated touch interactions between robots, humans, real, remote, or simulated environments, seeks to eliminate this problem.

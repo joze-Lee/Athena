@@ -1,0 +1,1 @@
+The design evolved from an analysis of simple, pure-tension net structures, combined with aspects of rigid space frame structures, to resist compressive forces. Existing joint configurations are analyzed and compared to the novel joint.

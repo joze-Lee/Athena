@@ -1,0 +1,1 @@
+The pivot point needs to be at the node point of the space frame to ensure the struts form the triangles that are key to the frames stability and structural efficiency (i.e. the pivot points must be concentric).

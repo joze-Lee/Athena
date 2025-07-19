@@ -1,0 +1,1 @@
+A human femur model was used to test the ability of the flexible surgical drill system. The speed range of the drill used in this test was 25,000 - 30,000 rpm. The experimental result showed that the prototype was able to drill a hole of  3mm and 10mm depth rapidly and smoothly, whilst the Flexion system forms a  J -shape.

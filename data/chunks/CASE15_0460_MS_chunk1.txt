@@ -1,0 +1,1 @@
+We report the design and experimental testing of a novel flexible robotic surgical system addressing these issues. The robot consists of a flexible probe, a water jet cutting system, and haptic feedback controller. The water jet cutting system consists of a flexible end effector capable of bending around the spinal column for tissue removal.

@@ -1,0 +1,1 @@
+For extending and retracting its legs, the robotic platform was equipped with DC geared motors. Despite being inexpensive, DC motors cannot instantly adjust the length of the legs. As a result, tracking the trajectory was particularly difficult.

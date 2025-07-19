@@ -1,0 +1,1 @@
+The power of the motors is turned on when entering transition zone II and moving towards the cutting boundary. The stationary position command is set in the direction of the boundary in accordance with the active constraint. The cutter is prevented from entering the forbidden zone III by using this control concept.

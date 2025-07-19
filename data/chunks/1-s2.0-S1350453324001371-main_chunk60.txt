@@ -1,0 +1,1 @@
+In Fig. 3, the electronics used as well as the associated software that implements full control of the position of the platform are shown. The figure clearly illustrates how the electronic components are connected, powered and controlled from the input side to the output side.

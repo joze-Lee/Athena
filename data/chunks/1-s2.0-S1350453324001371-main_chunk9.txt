@@ -1,0 +1,1 @@
+Widespread adoption of surgical robots is therefore unlikely unless a way is found to address arguably the biggest problem in surgical robotics, the lack of touch. 1.2. Haptic technology In general, haptics refers to the simulated interactions of humans, robots, and simulated or remote environments [5].

@@ -1,0 +1,1 @@
+Computational Methods For the computational simulations of the urine stream we make use of a novel method which replicates the jet shape from an orifice by simulating the unsteady development of a 2-dimensional droplet deforming under the action of surface tension. This model is described next.

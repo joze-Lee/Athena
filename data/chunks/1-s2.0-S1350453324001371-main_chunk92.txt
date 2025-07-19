@@ -1,0 +1,1 @@
+In other words, if the real-time position of the robot end effector is always equal to the corrected con  trol position signal, the end effector will never enter a restricted area because the corrected control position signal will never output an inadmissible signal.

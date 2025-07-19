@@ -1,0 +1,1 @@
+Space frame node with rigid joint Figure 3 shows a simplified, detailed view of the same fixed spherical joint (JS). It is important that the struts  axes, and therefore the lines of force (LF) all need to intersect at the convergence point (CP) at the nodes.

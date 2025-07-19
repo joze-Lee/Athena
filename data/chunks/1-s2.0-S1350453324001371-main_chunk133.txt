@@ -1,0 +1,1 @@
+It would take 59.68 turns (5730 encoder pulses) to span the entire leg range since the leg range is (Lmax  Lmin = 491  306 = 185 mm). As a result of the filter circuit, a percentage error of approximately 0.2 % is expected. The pulses correspond to 11.46 rev  olutions, or 0.37 mm, or 0.11937 pulses.

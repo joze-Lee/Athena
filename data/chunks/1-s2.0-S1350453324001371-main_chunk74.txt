@@ -1,0 +1,1 @@
+Medical Engineering and Physics 132 (2024) 104236 4 (CC) monitors the state of the system and only activates when the system approaches the boundaries of a forbidden region. By modifying unom and generating a corrected control signal (ucor), the CC prevents the system from entering the forbidden area.

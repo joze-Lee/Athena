@@ -1,0 +1,1 @@
+Considering the analogy with the 2-d droplet oscillating with frequency f , and traveling with a velocity V, we see that the wavelength is given by Equation 8.

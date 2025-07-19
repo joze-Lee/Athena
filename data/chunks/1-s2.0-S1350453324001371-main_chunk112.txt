@@ -1,0 +1,1 @@
+As the user approaches the boundary the force de  creases gradually since the magnitude of error decreases as well, until the user is on the boundary and the error is reduced to 0 where the force vector also becomes 0 and the controller ceases to exert a force.

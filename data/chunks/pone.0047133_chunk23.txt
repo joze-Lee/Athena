@@ -1,0 +1,1 @@
+For the cases described here, we find that the initial wavelength (L) to be around thirty times larger than Dmin. The pressure differences due to surface tension are inversely proportional to the radius of curvature of the jet surface both in the streamwise direction and in the x-y plane (see Fig. 1).

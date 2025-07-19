@@ -1,0 +1,1 @@
+S. Morad et al. Medical Engineering and Physics 132 (2024) 104236 7 has 3 actuators which work together to exert a push/pull force in 3D space. In essence the 3 curved arms of NF have tendons connecting them to 3 motors (1 each).

@@ -1,0 +1,1 @@
+Rather than a pure octahedron, it will be seen that this forms a more complex geometric shape comprised of a pair of irregular hexagons (the rigid plates), connected via the variable-length struts, pairs of which form  skew quadrilaterals. In geometric terms, the whole form is a  skew hexagonal prism.

@@ -1,0 +1,1 @@
+Concentric joints by (A) Bosscher/Ebert-Uphoff, and (b) Hamlin Samir Morad, Christian Ulbricht, Paul Harkin, Justin Chan, Kim Parker, Ravi Vaidyanathan 6 with each other by the flexible cord, they can effectively pivot relative to each other, giving 3DoF. Figure 7 shows a cross- section view through the joint configuration.

@@ -1,0 +1,1 @@
+A robot platform has been designed and fabricated that acts as a mount for the cutting system, and produces the desired range of movements. A graphical user interface (GUI) has been created to analyze the working envelope of the platform and provide an interface for control by a surgeon.

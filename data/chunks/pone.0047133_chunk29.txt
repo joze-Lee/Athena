@@ -1,0 +1,1 @@
+This gives a surface shear of around 0:0072Pa, which can be compared to the pressure due to surface tension which will typically be around 100Pa. For this investigation the aerodynamic drag forces could reasonably be neglected as being several orders of magnitude less than the surface tension forces.
