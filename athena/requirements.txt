@@ -1,6 +1,0 @@
-numpy
-sentence-transformers
-PyMuPDF
-nltk
-faiss-cpu
-tf-kera
