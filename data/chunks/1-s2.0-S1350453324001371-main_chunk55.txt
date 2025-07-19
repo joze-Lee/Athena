@@ -1,1 +1,0 @@
-In the main loop, the program continues to read the positional input from the NF and controls the motors, adjusting the six-leg lengths as necessary, to achieve the desired position for the Fig. 1. The installed motor-encoder units on the platform legs via motor-encoder adapter (A).

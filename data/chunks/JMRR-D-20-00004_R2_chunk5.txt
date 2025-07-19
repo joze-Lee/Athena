@@ -1,1 +1,0 @@
-Clinical Motivation Surgical robots have proliferated in recent years, with well- established benefits including: reduced patient trauma, shortened hospitalization, and improved diagnostic accuracy and therapeutic outcome.

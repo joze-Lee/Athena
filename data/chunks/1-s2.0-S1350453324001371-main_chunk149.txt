@@ -1,1 +1,0 @@
-Future work will improve the design and further investigate the implementation of haptic technology in surgical robots based on the findings of this study. Future work will involve designing and developing a flexible robotic surgical device that includes a water jet tool and an articulated distal tip (ADT).

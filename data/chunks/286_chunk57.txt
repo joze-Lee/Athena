@@ -1,1 +1,0 @@
-Component layout of the system. IV. MODELLING AND SIMULATION A. Modelling The robot was modelled as six leg subsystems attached to the top and base plates to form the plant block of the model.

@@ -1,1 +1,0 @@
-Both of the joints shown above project a virtual pivot point (PP) into space outside of its own structure, making this a shared pivot point for all of the convergent struts. However, both of these examples use relatively bulky and complex mechanisms, with many moving parts.

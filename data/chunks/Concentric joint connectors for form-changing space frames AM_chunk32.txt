@@ -1,1 +1,0 @@
-At the ball-and-socket joint JBS1 the strut (S1) connected to the ball is now in contact with the socket edge of the socket at point P1. Thus a load resulting in a compression force (FC) upon strut S1 would impose a bending moment at this point of contact (P1) upon the end of strut S1 as it induces further rotation of the central connection.

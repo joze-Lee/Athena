@@ -1,1 +1,0 @@
-However, for the many potential applications where a form-changing space frame structure might be used, both tension and compression forces occur within the struts. Hence both types of loads must be resolved by the nodal connections.

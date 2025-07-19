@@ -1,1 +1,0 @@
-Online soft tissue parameter identification is created using the extended Kalman filter (EKF). It based on the nonlinear Hunt-Crossley (H C) contact model being dynamically linearized with respect to the system state [17,18].

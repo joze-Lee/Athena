@@ -1,1 +1,0 @@
-Based on the experimental data analysis and using the relationship between the depth of cut as a function of flow pressure and the stand-off distance of the nozzle (Fig. 13), we can specify the depth of water jet cut as a function of flow pressure and time of the cut.

@@ -1,1 +1,0 @@
-With reference to Fig. 15, assuming that a known size of cancerous tissue (red sphere) is centred inside a predefined cube. The cube represented a regional constraint that Fig.

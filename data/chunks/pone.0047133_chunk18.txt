@@ -1,1 +1,0 @@
-The inital shape of the jet will closely match the aperture shape, and the surface tension will act to reduce the local surface curvature, thus accelerating the flow radially inwards in regions of high convex curvature. However, in order to conserve mass flux, the flow must also accelerate radially outwards elsewhere on the jet surface.

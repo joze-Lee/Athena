@@ -1,1 +1,0 @@
-Plot shows the relationship between flow pressure and flow rate of the water jet unit. Fig. 9.

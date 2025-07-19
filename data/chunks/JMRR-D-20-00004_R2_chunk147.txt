@@ -1,1 +1,0 @@
-(2) Samir Morad, Christian Ulbricht, Paul Harkin, Justin Chan, Kim Parker, Ravi Vaidyanathan 12 Figure 18-A shows the x, y, and z values of the position of the body block representing the end effector moving over time as the model simulates.

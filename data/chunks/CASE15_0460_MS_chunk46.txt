@@ -1,1 +1,0 @@
-Figure 5: Control loop structure for haptic rendering Fig. 6. A sphere with radius r cantered about the origin O, and the associated equations.

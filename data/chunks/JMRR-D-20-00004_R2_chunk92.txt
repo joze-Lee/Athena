@@ -1,1 +1,0 @@
-This requirement is a consequence of the prone, facedown posture of the patient during the surgical procedure. The structure of the suspension system simply has to provide three rigid attachment points for the topmost triangular face of the octahedral robotic framework.

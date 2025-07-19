@@ -1,1 +1,0 @@
-The high accuracy and stability of a parallel robot performing in a small workspace led to it being designed, manufactured, and integrated into our flexible surgical device, as it is the most suitable robot for our surgical application.

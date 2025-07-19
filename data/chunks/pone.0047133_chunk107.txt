@@ -1,1 +1,0 @@
-The closed symbols show the predicted Qmax based on an individual s Qmax=Lmax measured at the first recorded voiding event. The open symbols show the increased scatter if the sample mean Qmax=Lmax value is used rather than the individual s Qmax=Lmax.

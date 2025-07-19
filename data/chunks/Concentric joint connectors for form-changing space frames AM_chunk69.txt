@@ -1,1 +1,0 @@
-4.7 Concentricity It is acknowledged that the proposed joint design has less than perfect concentricity of the pivot points of the struts. Figure 12 shows that the actual pivot point (PP) is not at the original convergence point (CP), but closer to the rounded contact point be- tween the barrels (BN) at the ends of the struts.

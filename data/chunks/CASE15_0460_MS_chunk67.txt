@@ -1,1 +1,0 @@
-The depth of the water jet cut as a function of nozzle stand-off distance with 0.84 mm orifice diameter, applying various set of pressures over 5s. Fig. 13.

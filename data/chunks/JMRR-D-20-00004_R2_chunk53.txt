@@ -1,1 +1,0 @@
-As part of the growing interest in variable geometry truss structures within the robotic community since the 1990s, several research groups have been developing novel designs for truly concentric free-rotation joints (Fig. 6), such as those by [16,17].

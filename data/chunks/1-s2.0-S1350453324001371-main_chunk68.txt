@@ -1,1 +1,0 @@
-Due to the physical limitations of the robot s actuation and/or geometry, some robot ma  nipulators have a fixed workspace beyond which they will not be able to reach. Therefore, kinesthetic haptics, or active constraints, are used to keep the user within a certain predefined spatial area, namely the robot platform s workspace. 3.

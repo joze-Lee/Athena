@@ -1,1 +1,0 @@
-The aim of the test was to assess the effectiveness and performance of the robot in controlling the movement of the surgical tool.

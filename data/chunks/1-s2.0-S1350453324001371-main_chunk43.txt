@@ -1,1 +1,0 @@
-The LISM equipment is used in the approach to guide the robot s end effector to a desired place or along a desired path by guiding the robot to follow the laser beam-mapped trajectory [26]. In their work, Clark et al.

@@ -1,1 +1,0 @@
-The computational fluid dynamics model is used to determine the shape of a liquid jet issuing from a non- axisymmetric orifice as it deforms under the action of surface tension. The computational results are verified with experimental modelling of the urine stream.

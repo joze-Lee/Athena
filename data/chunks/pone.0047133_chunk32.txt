@@ -1,1 +1,0 @@
-The motion of these fluid elements is described by the unsteady incompressible Navier-Stokes equations in two dimen- sions, which are: r Du Dt ~{ Lp Lx zm L2u Lx2 z L2u Ly2 ! zrgx  4  r Dv Dt ~{ Lp Ly zm L2v Lx2 z L2v Ly2 !

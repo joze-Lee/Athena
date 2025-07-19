@@ -1,1 +1,0 @@
-This method helps identify mechanical characteristics and estimate soft tissue deformation behavior, creating a nonlinear state-space equation based on hyperelasticity. In comparisons to the above existing haptic technology, guidance constraints and regional constraints are considered in this paper.

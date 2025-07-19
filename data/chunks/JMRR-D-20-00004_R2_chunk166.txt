@@ -1,1 +1,0 @@
-Conclusion In this paper, we have developed a robotic platform that could be used in spinal surgery procedures, with promising early results. The surgical robot is a parallel robot platform comprised of multiple struts, arranged in a geometrically stable array, connected at their end points via the CCJ.

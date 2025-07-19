@@ -1,1 +1,0 @@
-Each of the six DC motors was connected to a rotary encoder via a custom-made adapter to provide positional feedback regarding each leg (Fig. 1-A). A unipolar stepper motor was controlled by a single ULN2003a transistor array, which was connected to the flexible probe (Fig.

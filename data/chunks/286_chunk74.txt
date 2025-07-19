@@ -1,1 +1,0 @@
-It did this by entering the body, navigating the probe tip to the target surgical site, conducting a dissection of tissue, controlling the orientation and curvature of the probe tip, and exiting the body cavity, whilst always avoiding contact with any internal organs.

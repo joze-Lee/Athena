@@ -1,1 +1,0 @@
-Haptic modelling 3.1. Haptic rendering Haptic rendering enables the surgeon to perceive forces in the sur  gical environment in response to interaction with objects. From a control theory perspective, haptic rendering is a problem with constrained control, since rigid walls are rendered.

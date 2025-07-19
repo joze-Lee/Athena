@@ -1,1 +1,0 @@
-Compared to an encoder operating at a nominal 60 rpm, this represents a 125 % increase in linear position error. Although the per  centage is large, the absolute value of the error is minimal. It is on the Fig.

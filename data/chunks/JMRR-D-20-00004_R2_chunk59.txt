@@ -1,1 +1,0 @@
-To simplify the kinematics, the joint configuration proposed by both Bosscher/Ebert-Uphoff and Hamlin allow more than two moving components to be pivotally connected with concentricity. Thus, they seem to solve the problem of a joint at the node points of a parallel robotic framework.

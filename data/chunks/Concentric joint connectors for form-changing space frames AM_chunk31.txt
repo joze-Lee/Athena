@@ -1,1 +1,0 @@
-Ball and socket joints - aligned Figure 8 shows the same joint arrangement, but with forces of compression (FC) acting upon the struts (S). The central connection (CC) component has been made to rotate due to the loads from the struts acting as moment forces (FM) upon it. The lines of force (LF) now do not pass through the con- vergence point (CP).

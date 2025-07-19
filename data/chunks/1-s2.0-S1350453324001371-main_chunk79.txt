@@ -1,1 +1,0 @@
-There are five constraints: point limit, cuboid constraint, plane constraint, cylindrical constraint, and spherical constraint (Table 1).

@@ -1,1 +1,0 @@
-Space frame node   rigid joint detail It will be seen that there are at least 3 struts con- verging at any of the nodes within a space frame, and this can increase to 8 in a pyramidal/tetrahedral arrangement of the frame, or 9 struts in the tetrahe- dral/octahedral frame, both shown in Figure 1.

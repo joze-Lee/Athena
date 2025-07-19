@@ -1,1 +1,0 @@
-Medical Engineering and Physics 132 (2024) 104236 6 In the figure, two different instances of the system response trajectory are shown. The green line trajectory corresponds to input speeds below the critical speed.

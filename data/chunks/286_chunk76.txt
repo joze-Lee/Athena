@@ -1,1 +1,0 @@
-Mock surgical setup   flexible tip/probe equipped with water jet tool. VI. DISCUSSION Despite the advantages of implementing a water jet system to cut tissues in a surgical environment, there is a risk of the jet cutting through the target tissue, and then going on to hit the underlying tissues and damaging them.

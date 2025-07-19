@@ -1,1 +1,0 @@
-In the draw function, the robot platform figure is continuously updated in real-time as the simulation continues. Regional constraints were implemented by generating force feed  back when an inadmissible position was reached.

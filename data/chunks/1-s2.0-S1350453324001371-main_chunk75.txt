@@ -1,1 +1,0 @@
-In addition, it computes feedback force whose magnitude is proportional to the severity of the constraint exceeded.

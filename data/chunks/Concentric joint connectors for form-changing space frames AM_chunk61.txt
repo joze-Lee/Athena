@@ -1,1 +1,0 @@
-It is important factor for the cords to have a slight degree of elasticity whilst the struts pivot around the node point, its length would need to vary slightly depending on the angular displacement of the struts.

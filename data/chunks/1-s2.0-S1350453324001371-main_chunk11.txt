@@ -1,1 +1,0 @@
-Using kinesthetic haptics, a robot simulates touch interaction with a patient and transmits important information about the operating envi  ronment to the surgeon. As a result, kinesthetic haptic positional feed  back control is used to assist the user in safely and successfully performing certain operations using a robotic manipulator.

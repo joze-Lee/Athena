@@ -1,1 +1,0 @@
-The Reynolds number based on wavelength L was typically around 4000. A correction for gravitational effects was also added, by scaling the droplet area to account for a fixed volumetric flow rate at each streamwise plane of the jet. Both the laminar viscosity and gravitational effects Figure 1.

@@ -1,1 +1,0 @@
-5. Control loop structure for haptic rendering. User input information (p) is sent to the nominal controller (NC) to provide signals (unom) to control the system s output within permissible regions.

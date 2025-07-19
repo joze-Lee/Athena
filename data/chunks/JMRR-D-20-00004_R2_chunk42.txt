@@ -1,1 +1,0 @@
-With the angles of separation (AS) between the struts as shown, the lines of force intersect at a convergence point (CP) of the central connection (CC), and the struts are not subject to shear or moment forces. Figure 4-B shows the same joint arrangement, but with forces of compression (FC) acting upon the struts (S).

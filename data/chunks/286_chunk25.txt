@@ -1,1 +1,0 @@
-4, the pressure washer, or source, is connected to a flow control valve, which controls the pressure and rate of flow. The flow control valve is then connected to a solenoid valve, which essentially acts as an on-off switch, allowing the flow of water to be controlled using a PS2 controller. Beyond this is a pressure gauge.

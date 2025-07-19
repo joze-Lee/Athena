@@ -1,1 +1,0 @@
-We will also make the assumption that the streamwise z-component of velocity (w) is a constant, and set by the cross-sectional area of the jet and the volume flow-rate. This assumption will generally hold if the streamwise pressure gradients are small, and the action of streamwise body forces (such as gravity) are also small.

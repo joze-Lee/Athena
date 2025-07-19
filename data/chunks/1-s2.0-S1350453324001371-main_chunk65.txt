@@ -1,1 +1,0 @@
-Simulation is structured into three main subsections: the model construction, the GUI initialization, and the draw function. In model construct script, the figure is initialized and created. A fixed coordinate system is used to define the manipulator geometry including the tool, base and legs.

@@ -1,1 +1,0 @@
-By varying the jet pressure, a degree of control can be given over its effective cutting depth. This could be calibrated by measuring the cutting depth at various pressures via experiment. The distance moved by the nozzle could be measured by fixing a distance measuring sensor on the nozzle and another on the incision access.

@@ -1,1 +1,0 @@
-A. Haptic Rendering Haptic rendering is implemented to restore the surgeon s perception of forces in response to interaction with objects in the surgical environment. Considering the rendering of rigid Fig. 4.

@@ -1,1 +1,0 @@
-Inverse kinematics and all necessary calculations are performed by the NC to determine the nom  inal control signals (unom) for the system to achieve the desired position without taking into account any constraints. The constraint controller Fig. 3.

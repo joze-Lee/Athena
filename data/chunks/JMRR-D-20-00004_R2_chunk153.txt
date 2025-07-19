@@ -1,1 +1,0 @@
-For the parallel robot mobile platform, aspects of the earlier configuration of a form-changing space frame were adapted and simplified, to create a parallel platform with a fixed top and mobile base, connected via six extendable legs.

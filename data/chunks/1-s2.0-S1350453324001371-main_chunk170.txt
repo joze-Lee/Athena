@@ -1,1 +1,0 @@
-Int J Robust Nonlinear Control 2023:1 13. https://doi.org/10.1002/rnc.6742. [19] Song J, Xie H, Zhong Y, Gu C, Choi KS. Maximum likelihood-based extended Kalman filter for soft tissue modelling.

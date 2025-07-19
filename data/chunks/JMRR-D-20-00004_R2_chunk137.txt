@@ -1,1 +1,0 @@
-There is a total of six pairs of concentric spherical joints; three on the top B1=B6, B2=B3, and B4=B5 and three on the end effector P1=P2, P3=P4 and P5=P6.

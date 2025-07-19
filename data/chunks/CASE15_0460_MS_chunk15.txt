@@ -1,1 +1,0 @@
-Active constraint is based on three zone constraints, save, transition, and forbidden zone. This method were first used for a prostatectomy resection and was first clinically applied in 1991 [13]. This  mechanical  constraint was further developed to provide accuracy and motion constraint for orthopedic knee replacement surgery.

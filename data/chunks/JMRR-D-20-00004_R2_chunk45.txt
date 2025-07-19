@@ -1,1 +1,0 @@
-The intrinsic structural efficiency of the space frame structure is compromised, as its struts now have to resist shear and bending forces, rather than simply FT and FC loads along their primary axes.

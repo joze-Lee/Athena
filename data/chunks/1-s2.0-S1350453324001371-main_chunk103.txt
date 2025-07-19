@@ -1,1 +1,0 @@
-3.2.2. Permissible threshold Fig. 8 shows that the robot s real-time trajectory does not exactly match the control signal trajectory ucor.

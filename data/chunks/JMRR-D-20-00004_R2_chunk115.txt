@@ -1,1 +1,0 @@
-The  stroke  of a linear actuator is the variation in length of the whole assembly as it goes from maximum retraction to maximum extension, whilst accounting for any portions of the design that are either fixed in length/do not fully retract, and/or any overlap at maximum extension.

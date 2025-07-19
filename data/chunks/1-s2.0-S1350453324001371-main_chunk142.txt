@@ -1,1 +1,0 @@
-Position and orientation information from the user interface (P) will be scaled down by the scaling controller before entering the nominal controller. S. Morad et al. Medical Engineering and Physics 132 (2024) 104236 9 order of 10 4 m. It is therefore acceptable to run the motor at maximum speed.

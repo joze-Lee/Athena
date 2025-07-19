@@ -1,1 +1,0 @@
-In their study to investigate the effect of haptic feedback on suturing accuracy and performance, Ehrampoosh et al. [8] presented a new force-sensing and semi-automated robotic needle driver for teleoperated MIS suturing activities.

@@ -1,1 +1,0 @@
-[27] describes a novel approach for sensing position and orientation in micro/nano positioning stages with three planar degrees of freedom (DOF). To prevent misalignment, the mech  anism is counter-rotated utilizing a laser interferometry-based sensing approach.

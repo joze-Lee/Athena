@@ -1,1 +1,0 @@
-As a result, a red line represents the robotic end effector s path through the prohibited area. To avoid this, the input velocity must be limited to be below the critical value at all times. This is done by incorporating a velocity limit constraint that generates a haptic force that slows the user down if the critical velocity is exceeded.

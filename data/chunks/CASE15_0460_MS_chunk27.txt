@@ -1,1 +1,0 @@
-The orientation and position of the flexible probe in 6DoFs is specified by the user. It is then necessary to calculate the required leg lengths of each of the six platform legs in order for the robot platform to impose the desired orientation of its end-effector.

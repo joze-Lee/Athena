@@ -1,1 +1,0 @@
-7. Simulation Results The design of the surgical platform was based on the classic Stewart platform for positioning objects. The platform has an exceptional range of motion and can be accurately and easily positioned and oriented.

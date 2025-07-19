@@ -1,1 +1,0 @@
-The purpose of this study was to develop and test a working position control structure for a surgical robot that incorporates haptic technology. The inverse kinematic equations were validated using a computer simulation model developed in MATLAB.

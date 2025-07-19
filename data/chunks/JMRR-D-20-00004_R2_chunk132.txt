@@ -1,1 +1,0 @@
-12), which act as motor cut-out devices at the point of maximum extension or retraction, primarily to prevent the drive mechanism from breaking components when the mechanical limits of the actuator stroke are reached.

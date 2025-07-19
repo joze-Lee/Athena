@@ -1,1 +1,0 @@
-This paper summarizes the development of a flexible robotic surgical system to be used in minimally invasive spinal surgery (MISS), targeting the removal of cancerous tissue. The cutting system consists of a flexible drill and a water-jet cutter which may be used interchangeably; each capable of bending around the spinal column for tissue removal.

@@ -1,1 +1,0 @@
-The data shows that an interval of 5 s increase in time results in an interval 3 mm cutting depth. Therefore, controlling the depth of water jet cut can be done by controlling the time.

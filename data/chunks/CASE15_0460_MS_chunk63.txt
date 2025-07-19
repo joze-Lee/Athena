@@ -1,1 +1,0 @@
-Overall, the meat was successfully dissected and the robot functioned well in carrying out the procedure. The overall operation time taken was 5 minutes and 20 seconds from start to finish and this time is likely to improve with practice and improvements to the platform hardware.

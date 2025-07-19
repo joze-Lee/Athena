@@ -1,1 +1,0 @@
-Offline and online testing are carried out to determine the practicality of the created algorithm. The authors demonstrated that the devised approach shows promise in allowing for a live estimate of tool-tissue force, potentially enabling haptic feedback in robotic surgery.

@@ -1,1 +1,0 @@
-As a result, the input signals were also limited to a very slow rate. It is also possible to use pneumatic or linear drives instead of DC motors. In the surgical application at hand, these actuators provide sufficient accuracy and holding torque to pro  vide desirable response times.

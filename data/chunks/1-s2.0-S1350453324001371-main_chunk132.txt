@@ -1,1 +1,0 @@
-As a result, controlling the robot becomes more intuitive and reduces cognitive load for the surgeon. It was determined that a single motor revolution corresponds to a 3.1 mm change in leg length based on the dimensions of the gears in the robot s leg.

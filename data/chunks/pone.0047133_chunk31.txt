@@ -1,1 +1,0 @@
-zrgy  2  Lu Lx z Lv Ly ~0  3  Where r,m,p are the fluid density, viscosity and pressure, respectively, and gx,gy represent body forces (such as surface tension) acting on the fluid elements. Now consider elements of fluid within a two-dimensional droplet which is deforming in time (t) under the action of surface tension.

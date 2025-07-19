@@ -1,1 +1,0 @@
-The computational solution algorithm comprised of a finite volume, 2nd order, pseudo-compressibility, dual-time stepping scheme with 2nd and 4th order smoothing. The effects of laminar viscosity were added by determining the strain field normal to the axis of the jet, and including the shear forces in the finite volume formulation.

@@ -1,1 +1,0 @@
-1 INTRODUCTION 1.1 Space frames Space frame structures emerged in the 1890s, from work by Bell (1903) related to structures for kites that were lightweight, but also strong. They are comprised from rigid struts joined together at their ends, configured as 3-dimensional trusses.

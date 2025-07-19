@@ -1,1 +1,0 @@
-[10] J.P. Merlet, Parallel Robots (Springer, The Netherlands, 2006) [11] M. Shoham, M. Burman, E. Zehavi, L. Joskowicz, E. Batkilin, and Y. Kunicher, Bone-Mounted Miniature Robot for Surgical Procedures: Concept and Clinical Applications, IEEE Transactions on Robotics and Automation. 19(5) (2003) 893 - 901. [12] H. Tian, D.Wu, Z.

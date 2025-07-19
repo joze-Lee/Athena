@@ -1,1 +1,0 @@
-A new nonlinear state observer is created by combining unscented Kalman filter (UKF) with the Hunt-Crossley (H C) model to estimate the contact interaction with soft tissue in real time. A new technique is proposed by Abeywardena et al.

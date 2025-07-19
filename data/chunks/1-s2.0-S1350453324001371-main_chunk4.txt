@@ -1,1 +1,0 @@
-Introduction 1.1. Surgical robotics In recent years, there has been a significant increase in interest in the field of robotic surgery, both in terms of financial investment and research.

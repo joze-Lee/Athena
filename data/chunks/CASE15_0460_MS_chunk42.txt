@@ -1,1 +1,0 @@
-The constraint controller incorporates an additional two constraint sets: the first, a velocity limit set and the second, an allowable threshold set. The system requires time to accelerate and decelerate to reach a target orientation.

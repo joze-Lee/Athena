@@ -1,1 +1,0 @@
-An isometric view of an expanded plot of the linear actuator: (G) gear, (M) motor, (B) barrel, (S) switches, (R) rod, and (SA) sub- assemblies. Fig. 14.

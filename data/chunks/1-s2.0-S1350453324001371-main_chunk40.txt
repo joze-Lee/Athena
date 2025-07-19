@@ -1,1 +1,0 @@
-[24] studied trajectory su  pervision and rendering with invariance control. An example of regional constraint implementation is presented. The laser interferometry-based sensing and measuring (LISM) approach was initially studied for dynamic measurements of the end effector of a robot manipulator in motion.

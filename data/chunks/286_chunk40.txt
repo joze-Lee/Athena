@@ -1,1 +1,0 @@
-This helped to simplify the mechanism, and prioritized end effector accuracy within a smaller working envelope. Taking the spinal column as being very approximately cylindrical in form, and based on the dimensions as above, the end-effector working envelope was established as an approximate sphere (S) of  120mm. Based on the ability of Fig.

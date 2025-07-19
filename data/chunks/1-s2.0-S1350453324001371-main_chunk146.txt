@@ -1,1 +1,0 @@
-6. Conclusion We present the design and development of a working position con  trol structure that integrates haptic technology into the surgical robotic platform on the basis of our previous work on a surgical robotic platform with a concentric connecting joint.

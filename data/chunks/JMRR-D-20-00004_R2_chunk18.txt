@@ -1,1 +1,0 @@
-An alternative configuration is the parallel manipulator configuration, where multiple struts form closed kinematic chains. The most common configuration is in the form of an octahedron, where two opposing rigid faces/plates are connected by six struts. These struts vary their length (telescope), and are connected via passive, free-rotation joints.

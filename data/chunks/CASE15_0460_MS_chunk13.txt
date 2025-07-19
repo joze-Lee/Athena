@@ -1,1 +1,0 @@
-As technology progresses, the field of medical robotics seems more and more promising with lots of work being done towards implementing robots in the surgical theatre [11]. Robot-assisted surgery promises greater dexterity and higher accuracy by eliminating human error and invoking countless other methods of surgery.

@@ -1,1 +1,0 @@
-Preprint submitted to 2015 IEEE International Conference on Automation Science and Engineering. Received March 20, 2015. prevents the tool, in this case the water jet nozzle, from entering the forbidden region.

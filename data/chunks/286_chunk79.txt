@@ -1,1 +1,0 @@
-It was thought that a turbulent flow was generating at the entrance of the nozzle, caused by the high pressure flow. To overcome this defect, the fluid mechanics theory of  T  junction [15] flow was applied by using a second flow- controlling valve.

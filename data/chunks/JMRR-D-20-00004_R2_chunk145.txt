@@ -1,1 +1,0 @@
-The preliminary validation of the design of the platform was performed by simulating the model system. The output data on the behaviour of the platform system was obtained graphically and numerically and displayed in the MATLAB workspace via a position sensor block.

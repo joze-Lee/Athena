@@ -1,1 +1,0 @@
-For commercially-available rigid space frames, the spheres act as a convenient method of joining the struts together, thus extending the material structure of each strut towards the node point, where the tension/compression forces are transmitted to the conjoining struts.

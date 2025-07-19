@@ -1,1 +1,0 @@
-These structures are comprised of multiple struts, arranged in a geometrically stable array, connected at their end points via the joints. Each strut, acting as part of a truss, can change in length (telescope), and thus their com- bined variations can change the overall form of the frame.

@@ -1,1 +1,0 @@
-Water jet cutting tool in surgery; Modelling and control of a water jet cutting probe for flexible surgical robot Samir Morad Student Member IEEE, Christian Ulbricht, Paul Harkin, Justin Chan, Kim Parker, Ravi Vaidyanathan, Member IEEE Preprint submitted to 2015 IEEE International Conference on Automation Science and Engineering.

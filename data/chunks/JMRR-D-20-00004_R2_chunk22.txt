@@ -1,1 +1,0 @@
-However, the authors are not aware of any previous studies which have investigated or even mentioned the use of parallel robots for the resection of spinal tumors. In this paper a 6DoF parallel robot has been designed to guide and position a surgical tool for the resection of spinal tumor surrounding the spinal column.

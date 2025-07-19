@@ -1,1 +1,0 @@
-The lengths when fully retracted/ fully-extended are approximately 270mm and 450mm respectively, i.e. a ratio of approximately 1:1.7. A single lead screw mechanism, powered by a DC motor (M) via a gear assembly (G), produces the linear movement.

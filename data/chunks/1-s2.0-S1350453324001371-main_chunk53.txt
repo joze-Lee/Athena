@@ -1,1 +1,0 @@
-1-B). 2.2. Position control of the SRP With the NF, user inputs of up to 3DOF can be made and mechanical force feedback can be passed back to the user.

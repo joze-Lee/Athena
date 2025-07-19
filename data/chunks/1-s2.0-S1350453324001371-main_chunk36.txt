@@ -1,1 +1,0 @@
-It is necessary to "anchor" the created active constraint border to the tissue of the operated patient. By doing this, the produced geometry can be localised by any registered robotic system. During the development of a prostatectomy robot, an active constraint theory was put into practice [22].

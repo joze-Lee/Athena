@@ -1,1 +1,0 @@
-What follows will be a brief description of the Euler s equations used to solve this system. For convenience, the important notations used here are presented in Table 1. The configuration of a 3-3 robot platform can be seen in Figure 16.

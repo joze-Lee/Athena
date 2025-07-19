@@ -1,1 +1,0 @@
-Based on [13], the inverse kinematic was formulated for the 3-3 parallel octahedral platform. The layout of the electronics used, along with the associated program code that implements full positional control of the platform, can be seen in Fig. 11.

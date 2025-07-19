@@ -1,1 +1,0 @@
-14. Logic flow chart of the simulation (left) and the resultant simulation of the platform (right). The simulation structure consists of three main subsections: the model construct, the graphical user interface (GUI) initialization, and the draw function.

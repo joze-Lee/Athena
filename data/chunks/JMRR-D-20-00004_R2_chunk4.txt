@@ -1,1 +1,0 @@
-Keywords: surgical robotics, parallel robot platform, form-changing space frames, concentric connector joint. 1. Introduction 1.1.

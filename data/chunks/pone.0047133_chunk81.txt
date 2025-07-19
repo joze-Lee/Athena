@@ -1,1 +1,0 @@
-(d) The resulting plot of wavelength, L, versus flow rate, Q, shows a clear correlation. Note that the relationship is non-linear due to the changes in the meatal opening. doi:10.1371/journal.pone.0047133.g005 Figure 6.

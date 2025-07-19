@@ -1,1 +1,0 @@
-The controller is designed to output force feed  back that is proportional to the error hence, if the user moves the controller to outside the permissible zone, the force will be large and the vector will act to force (push/pull) the user s hand back into the permissible zone.

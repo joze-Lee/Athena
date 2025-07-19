@@ -1,1 +1,0 @@
-In this study, six extensible legs were controlled by direct current (DC) motors to move an articulating surgical probe in 6DOF: three linear movements (latitude, longitudinal and vertical) and three rotations (pitch  , roll   and yaw  ).

@@ -1,1 +1,0 @@
-The values obtained are compared with the predicted values gained from the calculation and flow analysis simulation (Fig. 9). Hence, the flow rate (Q) and pressure of the water jet (P) was measured.

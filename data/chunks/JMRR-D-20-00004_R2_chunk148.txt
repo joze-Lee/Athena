@@ -1,1 +1,0 @@
-The numerical data of the end effector position (X, Y, and Z) was used to plot a 2-D/3-D representation of the end effector path (Figure 18-B) and volume (Figure 18- C). 8.

@@ -1,1 +1,0 @@
-There are two possible configurations of the surgical platform: (i) Mounted from a fixed structure above the surgical table (e.g. suspended from the ceiling of the operating theatre), possibly in the form of rails that run parallel to the patient s spine, to allow the robotic framework to move along them.

@@ -1,1 +1,0 @@
-The user-side controller generates kinesthetic haptics (force feed  back) through the implementation of the 3DOF Novint Falcon haptic enabled controller (NF) to control the three translational inputs [30]. A graphical user interface (GUI) was generated to control the three rota  tional input values.

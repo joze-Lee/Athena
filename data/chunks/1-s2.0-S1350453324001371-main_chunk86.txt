@@ -1,1 +1,0 @@
-Otherwise, the constraint controller is involved to generate forces (f) that keep the system s output within the permissible region. Table 1 The five basic types of constraints.

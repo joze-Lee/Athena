@@ -1,1 +1,0 @@
-Thus, along the axis of the jet, the jet surface forms a wave-like pattern with displacements in orthogonal directions (x, y). The wavelength (L) of these oscillations is dependent on the jet flow rate, aperture geometry and surface tension (T).

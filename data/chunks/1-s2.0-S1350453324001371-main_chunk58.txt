@@ -1,1 +1,0 @@
-S. Morad et al. Medical Engineering and Physics 132 (2024) 104236 3 end effector. The program calculates each leg s target length using inverse kine  matics, using a rotational matrix and positional matrix.

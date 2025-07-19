@@ -1,1 +1,0 @@
-Velocity limit The system needs time to accelerate and decelerate to achieve target alignment. If the rate of change of the entered targets is critically high, the system will not have enough time to acceptably respond to the target orientations. In Fig.

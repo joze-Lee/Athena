@@ -1,1 +1,0 @@
-The relationship between flow rate and wavelength was also estimated using the method of Rayleigh which assumes small amplitude perturbations from a cylindrical jet in contrast to the current CFD analysis. For large amplitude oscillations which occur when aspect ratios Dmax=Dminw1:5, the Rayleigh method significantly under estimated the wavelength.

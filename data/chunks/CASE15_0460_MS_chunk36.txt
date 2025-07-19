@@ -1,1 +1,0 @@
-The basic structure of the control loop used for haptic rendering can be seen in Fig. 5. A nominal controller, which receives input set (p) from the user interface device, carries out the inverse kinematics and sends the nominal control signals (Unom) to the system to achieve the desired position.

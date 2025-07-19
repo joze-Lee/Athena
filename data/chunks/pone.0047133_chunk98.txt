@@ -1,1 +1,0 @@
-The nozzles were designed to have a length of 50 mm section to ensure a straight walled channel of fixed cross-sectional shape prior to the exit orifice, thus ensuring minimal expansion or contraction of the jet at the nozzle exit. Liquid water was supplied at mains pressure (0:4MPa) and preset physiological flow rates of 5 to 50 mL:s{1.

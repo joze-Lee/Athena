@@ -1,1 +1,0 @@
-Trajectory supervision Since the robot s trajectory is not designed to run autonomously from one point to another, there is no need to model the robot s trajectories. Due to the real-time nature of the robot s application, it is sufficient to ensure that the end effector s position is within an allowable threshold of the input position.

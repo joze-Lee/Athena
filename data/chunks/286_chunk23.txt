@@ -1,1 +1,0 @@
-When the cables are tightened via a threaded mechanism connected to the nut/tensioning screw (TC), the tip bends to form an approximate arc or J-shape, with the radius of the arc diminishing as the tension increases. Conversely, as the cable tension decreases, the adjustable tip resumes its default near-linear form.

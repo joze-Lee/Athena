@@ -1,1 +1,0 @@
-This deviation from Rayleigh is because the assumption of small amplitude capillary waves is not valid when the orifice aspect ratios are substantially larger than unity, as in the case of the urethral meatus.

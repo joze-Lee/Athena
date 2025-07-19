@@ -1,1 +1,0 @@
-Primarily to simplify the kinematics, near-concentric (within 1-2mm), passive, free-rotation, multi-leg joints [12] are used. These were originally developed for use in variable-geometry space frames.

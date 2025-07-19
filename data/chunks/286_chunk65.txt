@@ -1,1 +1,0 @@
-The desired position (x, y and z) and orientation ( ,   and  ) of the end- effector was specified and inverse kinematic equations were used to calculate the nominal leg lengths of each of the six platform legs. The leg lengths were plotted real-time on a 3D model figure as can be seen in Fig 14. Fig.

@@ -1,1 +1,0 @@
-5.3 Possible design improvements Due to the proportional relationship between the diameter of the barrels at the strut ends and the off- set of the strut pivot points from the node points, there appears to be scope for the pivot points to be closer to the nodes, thus moving closer to true- concentricity, via the use of materials for the barrels with higher flexural strength.

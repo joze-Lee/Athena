@@ -1,1 +1,0 @@
-Rotary encoders are installed on the motor/gearbox shaft, as a means of measuring the revolutions of the motor, and hence calculate the extension/retraction of each actuator.

@@ -1,1 +1,0 @@
-The flow rate and pressure were expected to vary based on the discharge flow valve opening. This was done by measuring both variables at every 0.25 revolution of the discharge flow valve knob from fully close to three revolutions. Fig.

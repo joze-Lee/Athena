@@ -1,1 +1,0 @@
-8 summarises the results of the test. The velocity of the flow is calculated by applying formula (8) using the known outlet pressure, P, and density of the fluid,  : Where Cd is the coefficient of discharge, this is the ratio of the actual discharge to the theoretical discharge.

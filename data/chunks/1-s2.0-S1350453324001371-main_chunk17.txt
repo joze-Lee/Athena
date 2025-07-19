@@ -1,1 +1,0 @@
-The particular instance of laser microsurgery assisted by a robot is examined by Olivieri et al. [7]. Here, stereoscopic visualisation and 3D reconstruction are used to create a fictional force feedback that enables the surgeon to manipulate a non-contact surgical laser while haptically sensing the operative area.

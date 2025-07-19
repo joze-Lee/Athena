@@ -1,1 +1,0 @@
-IEEE Trans Med Robot Bionics 2023;5: 614 22. https://doi.org/10.1109/TMRB.2023.3291022. [11] Dalvand MM, Shirinzadeh B, Shamdani AH, Smith J, Zhong Y. An actuated force feedback-enabled laparoscopic instrument for robotic-assisted surgery.

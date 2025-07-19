@@ -1,1 +1,0 @@
-B. Surgical robots and haptic feedback The introduction of minimal invasive surgery (MIS) has attributed to a reduction in patient trauma, resulting in faster recovery and lower hospitalisation cost [10]. However, performing MIS, can introduce a range of ergonomic and safety challenges.

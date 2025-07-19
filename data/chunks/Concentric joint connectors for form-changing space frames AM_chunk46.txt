@@ -1,1 +1,0 @@
-For the example shown in Figure 2, the frame s struts join together at their ends via their connection to solid blocks, which are typically spherical in form.

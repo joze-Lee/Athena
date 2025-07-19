@@ -1,1 +1,0 @@
-Preprint submitted to 2015 IEEE International Conference on Automation Science and Engineering. Received March 20, 2015. walls; haptic rendering, when viewed from a control theory perspective, is a constrained control problem. The set of constraints and boundaries that are impermissible or inadmissible to the robot are defined in a constraint set.

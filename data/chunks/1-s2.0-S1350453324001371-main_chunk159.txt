@@ -1,1 +1,0 @@
-Sensors 2022;22:9770. https://doi.org/10.3390/s22249770. [7] Olivieri E, Barresi G, Caldwell DG, Mattos LS. Haptic Feedback for control and active constraints in contactless laser surgery: concept, implementation, and evaluation.

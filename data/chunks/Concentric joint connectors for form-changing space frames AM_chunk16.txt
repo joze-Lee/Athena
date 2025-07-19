@@ -1,1 +1,0 @@
-A widely-used version of this type of structure is the Gough/Stewart Platform, originally developed by Gough (1962) as a tyre-testing device in the 1950s & 60s. These typically comprise upper and lower rigid plates, connected via 6 telescopic struts, and are referred to with terms such as  parallel hexa- pod manipulators  in robotics.

@@ -1,1 +1,0 @@
-An illustrative example of constrained control is provided [23]. Staying on a point, avoiding plane penetration, moving along a line and rotating around a line are some of the geometric constraints that are relevant to surgical robots. M. Scheint et al.

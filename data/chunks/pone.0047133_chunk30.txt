@@ -1,1 +1,0 @@
-Given these assumptions the steady-state incompressible Navier-Stokes equations at any streamwise plane along the jet axis become r u Lu Lx zv Lu Ly zw Lu Lz   ~{ Lp Lx zm L2u Lx2 z L2u Ly2 ! zrgx  1  r u Lv Lx zv Lv Ly zw Lv Lz   ~{ Lp Ly zm L2v Lx2 z L2v Ly2 !

@@ -1,1 +1,0 @@
-wholly via tension forces (FT) or compression forces (FC) along the axes of the struts forming the frame, with little or no shear or bending forces acting upon the struts. Thus the struts only have to resist elonga- tion from tension, or buckling due to compression. This leads to a very efficient structure for a given quantity of material, i.e.

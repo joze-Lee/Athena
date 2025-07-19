@@ -1,1 +1,0 @@
-Haptic feedback is integrated into robotic surgical systems to restore the surgeon s perception of forces in response to interaction with objects in the surgical environment. The ideal exact emulation of the robot s interaction with its physical environment in free space is a very challenging problem to solve completely.

@@ -1,1 +1,0 @@
-fi =  (i  LBi), uicor = LBi, for i < LBi (1) fi =  (i  UBi), uicor = UBi, for i > UBi (2) fi = 0, uicor = i A haptic device produces force feedback in three translational coordinates (x, y and z), so there are 3D boundary conditions for each constraint. The CC block in Fig.

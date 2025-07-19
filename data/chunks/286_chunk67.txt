@@ -1,1 +1,0 @@
-The draw function runs in an infinite loop so as to continuously update the figure of the platform in real time until the simulation is closed. The end product is a simulation of the parallel platform in 6DOF controlled by user input from the Novint Falcon.

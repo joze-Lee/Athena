@@ -1,1 +1,0 @@
-We have successfully established haptic feedback control for the sur  gical robot using constraint control and inverse kinematic relationships integrated into the overall positioning structure. A preliminary feasibility study, modelling, and simulation were presented. 1.

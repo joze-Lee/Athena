@@ -1,1 +1,0 @@
-Using six en  coders, one on each leg, the position control creates a feedback loop. At the beginning of the program, the legs are datumed with a home flag, which indicates the base s initial position. The encoder readings in relation to this home position value represent the length of each of the six legs of the platform.

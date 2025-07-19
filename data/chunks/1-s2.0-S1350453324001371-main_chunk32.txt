@@ -1,1 +1,0 @@
-Guidance constraints are used to guide the user through a path. This technique has many limitations when used to guide robotic surgical probes along convoluted pathways inside the human body. The probe can only operate in a specific active space.

@@ -1,1 +1,0 @@
-Performance modelling The water jet system was set up in the exact configuration as shown in Fig. 3. Quantifiable parameters of the actual system are obtained so that appropriate calculations can be carried out.

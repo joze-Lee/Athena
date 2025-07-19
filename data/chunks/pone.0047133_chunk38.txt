@@ -1,1 +1,0 @@
-The liquid properties used were those of water (surface tension = 0:07N=m, viscosity = 0:0089Pa:s). The surface tension forces were applied using body forces around the edge of the droplet.

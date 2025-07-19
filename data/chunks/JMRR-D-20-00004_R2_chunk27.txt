@@ -1,1 +1,0 @@
-It is important that the struts  axes, and therefore the lines of force (LF) all need to intersect at CP at the nodes. This alignment, along with the use of triangulation in 3 Fig. 2.

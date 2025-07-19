@@ -1,1 +1,0 @@
-The position of the end-effector is denoted by P and given by the expression:  = [     ]  (1) It follows from the kinematics of each leg that the closed loop position vector equations are given by: Table 1. Description of the notations used in the calculation of the inverse kinematics.

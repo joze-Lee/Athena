@@ -1,1 +1,0 @@
-The near-concentric node joints examined in this paper were originally developed for this type of form-changing space frame. However, this paper focuses on the parallel hexapod manipulator configuration featuring rigid upper and lower plates, where the use of near-concentric node joints still offers intrinsic advantages [15]. 2.

@@ -1,1 +1,0 @@
-(a) For any given orifice, there was a perfect linear correlation between flow rate, Q and wavelength, L, with excellent agreement between the experimental and CFD analysis as shown for an orifice with cross sectional area and Dmax=Dmin of 13mm2 and 6 respectively.

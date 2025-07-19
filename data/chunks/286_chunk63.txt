@@ -1,1 +1,0 @@
-Output data representation, working envelope in (a) two and (b) three dimensions; (c) x y and z position of the end effector.

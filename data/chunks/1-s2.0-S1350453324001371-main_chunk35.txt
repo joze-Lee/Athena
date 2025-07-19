@@ -1,1 +1,0 @@
-Then, by combining these basic forms, a more intricate active constraint geometry can be created [21]. However, it should be highlighted that creating the constraint geometry by itself is insufficient when investigating the idea of active constraint definition.

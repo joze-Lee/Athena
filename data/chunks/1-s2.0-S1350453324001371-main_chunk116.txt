@@ -1,1 +1,0 @@
-There are two ways of eliminating the signal noise: hardware filter, also known as debouncer circuits, and software filter. Both methods were employed in the control structure to ultimately produce a robust and accurate encoder.

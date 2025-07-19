@@ -1,1 +1,0 @@
-From the encoder datasheet, one revolution of the encoder produces 96 pulses. 4.1. Motor-Encoder cell accuracy with filter circuit To test the accuracy of the function cell, a series of target encoder pulses were sent to the DC motor.

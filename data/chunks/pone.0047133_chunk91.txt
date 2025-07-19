@@ -1,1 +1,0 @@
-The figure shows the uncertainty in the estimate of Qmax was improved to +2% (2 standard deviations).

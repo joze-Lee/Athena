@@ -1,1 +1,0 @@
-The resulting simulated flow patterns match closely with those generated experimentally for water exiting an identical elliptical orifice at physiologically relevant flow rates (Fig. 2).

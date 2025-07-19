@@ -1,1 +1,0 @@
-The robot platform is validated by modelling and simulation only. The authors are intending to follow up with a study/paper that presents the design of the control scheme and haptic feedback of the robot platform to qualitatively validate the function of the robot experimentally. 9.

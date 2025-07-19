@@ -1,1 +1,0 @@
-Figure 2-A, B shows examples based on struts in square pyramidal/tetrahedral and octahedral/tetrahedral arrangements. Historically, these frames have used struts of fixed lengths to create rigid structures. Figure 2-C shows a close-up view of a rigid space frame, comprised of fixed-length struts (S).

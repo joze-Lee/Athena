@@ -1,1 +1,0 @@
-In this case, the PID controller maintains the robot s trajectory within a threshold acceptable to the input signal in real time, allowing the system to react in time. Notice what happens when the input speed is increased to a speed higher than the critical speed.

@@ -1,1 +1,0 @@
-The octahedral platform is a six degrees of freedom (6DOF) parallel manipulator, which is comprised of a fixed top (FT), and a mobile base (MB), connected by six individually-powered extensible linear actuators (LA) or  legs . The linear actuators are configured in an octahedral arrangement, commonly known as a Stewart Platform.

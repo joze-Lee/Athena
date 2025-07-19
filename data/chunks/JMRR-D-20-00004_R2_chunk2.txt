@@ -1,1 +1,0 @@
-The surgical robot is a parallel robot platform comprised of multiple struts, arranged in a geometrically stable array, connected at their end points via the CCJ.

@@ -1,1 +1,0 @@
-The purpose of this paper is to explore the design of a working po  sitional control structure incorporating a robotic framework, developed for use in spine surgical procedures, which serves as the guide and moving mount. In order to simplify the mechanical design of the framework. The parallel manipulator uses novel concentric joints [28].

@@ -1,1 +1,0 @@
-A position control code with haptic rendering and trajectory monitoring was successfully implemented using the required hardware, software, and electronics. Tests were conducted to determine the accuracy and robustness of the system.

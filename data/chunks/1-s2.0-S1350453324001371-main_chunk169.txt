@@ -1,1 +1,0 @@
-Extended Kalman filter for online soft tissue characterization based on Hunt-Crossley contact model. J Mech Behav Biomed Mater 2021;123:104667. [18] Zhu X, Li J, Zhong Y, Choi KS, Shirinzadeh B, Smith J, Gu C. Iterative Kalman filter for biological tissue identification.

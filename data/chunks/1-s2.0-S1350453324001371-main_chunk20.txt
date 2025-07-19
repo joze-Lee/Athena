@@ -1,1 +1,0 @@
-[9] demonstrated the use of SimPS-Net, a monocular RGB (Red-Green-Blue) camera-based network, that can recognise and locate surgical instruments in three dimensions, to generate and enforce active constraints [10]. Real-time network deployment was done in order to define boundaries. Later on, this boundary was employed to test constraint enforcement.

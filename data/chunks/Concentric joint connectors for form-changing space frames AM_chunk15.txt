@@ -1,1 +1,0 @@
-These have struts that can change their length (or  telescope ) in a controlled manner (i.e. they are linear actuators), connected to- gether pivotally at their ends, and arranged in the same geometrically-stable forms as rigid space frames. By varying the length of the struts, the frame can assume a wide variety of forms.

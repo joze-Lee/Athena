@@ -1,1 +1,0 @@
-Inherent weaknesses of ball-and-socket joints On first examining the problem, the authors first considered using multiple ball-and-socket joints, clustered together at the nodes. Figure 4-A shows a joint assembly of 3DoF ball-and- socket joints (JBS).

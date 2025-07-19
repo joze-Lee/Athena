@@ -1,1 +1,0 @@
-Space frames   pyramidal/tetrahedral (left) & tetra- hedral/octahedral (right) arrangements 1.2 Space frame joints Figure 2 shows a close-up view of a rigid space frame, comprised of fixed-length struts (S).

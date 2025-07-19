@@ -1,1 +1,0 @@
-Kinematics of the Robot Platform It is necessary to calculate the required leg lengths of each of the six platform legs in order for the robot platform to control the desired orientation of its end-effector as specified by the user. Based on [20, 21], the inverse kinematic was formulated for the 3-3 parallel octahedral platform.

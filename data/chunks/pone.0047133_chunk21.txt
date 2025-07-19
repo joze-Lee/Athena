@@ -1,1 +1,0 @@
-For a viscous fluid, the viscosity damps out these oscillations, so that at distances far downstream the jet effectively becomes cylindrical.

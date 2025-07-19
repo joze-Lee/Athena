@@ -1,1 +1,0 @@
-The response variable in this experi  ment is the speed of the DC motor. The motor speed was held constant at 60 rpm, which is the rated speed of the quadrature encoder. The results (Fig.

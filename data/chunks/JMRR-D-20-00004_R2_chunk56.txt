@@ -1,1 +1,0 @@
-Ball and socket joints   (A) aligned, and (B) misaligned Fig. 5. (A) Non-concentric joints are configured so that each strut has a separate connection to one of the rigid plates, (B) Concentric joints allow the struts to be concentrically connected to each other and the rigid plates.

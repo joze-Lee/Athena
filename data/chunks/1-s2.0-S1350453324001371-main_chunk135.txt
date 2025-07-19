@@ -1,1 +1,0 @@
-The motor should run at as high a speed as possible. With a higher motor speed, the leg would reach a target extension or retraction in less time, thus decreasing the system s response time. The error introduced by a DC motor speeding at 400 rpm is 0.45 % per leg span (185 mm) or 0.832 mm.

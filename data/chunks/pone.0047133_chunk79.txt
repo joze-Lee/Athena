@@ -1,1 +1,0 @@
-(a) Selected video images from which the wavelength was measured by calibrating against a rule held alongside the flow stream. (b) Representative plot for an individual void showing the temporal change in instantaneous flow rate, Q, and wavelength, L. The wavelength is a function of both the flow rate and the shape and size of the meatus.

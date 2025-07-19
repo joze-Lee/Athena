@@ -1,1 +1,0 @@
-Front Robot AI 2024;11:1365632. https://doi.org/10.3389/ frobt.2024.1365632. [10] Souipas S, Nguyen A, Laws SG, Davies BL, Baena FR. SimPS-Net: simultaneous pose and segmentation network of surgical tools.

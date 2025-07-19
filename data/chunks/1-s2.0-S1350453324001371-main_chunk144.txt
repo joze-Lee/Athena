@@ -1,1 +1,0 @@
-Trajectory path control is achieved by limiting input speed to a certain level. The system then has sufficient time to respond to the input signals. Due to the slow leg extension caused by DC motors, the threshold was very low.

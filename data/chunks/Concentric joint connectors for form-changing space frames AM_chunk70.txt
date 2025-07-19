@@ -1,1 +1,0 @@
-In the built prototypes, the distance between the node point and the actual pivot point was approximately 4mm. This displacement of concentricity appears to be proportional and approximately equal to the diame- ter of the barrels (4mm). This displacement distance is smaller than could practically be achieved using multiple ball-and-socket joints.

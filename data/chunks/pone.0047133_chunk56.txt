@@ -1,1 +1,0 @@
-doi:10.1371/journal.pone.0047133.g002 Figure 3. Computational modelling solves the 3-dimensional jet flow from a wide range of orifice shapes. Two examples are shown here for aspect ratios (Dmax=Dmin) of 3 and 6, and Dmin~2:0mm, Q~1:2l=m.

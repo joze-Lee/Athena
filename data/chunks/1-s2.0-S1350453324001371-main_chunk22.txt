@@ -1,1 +1,0 @@
-Additionally, the device can change the direction in which it grasps the patient s body. A master-slave robotic system for needle indentation and insertion is described by Shin et al. [12].

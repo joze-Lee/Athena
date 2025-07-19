@@ -1,1 +1,0 @@
-It is important to limit the position of the robot to a certain application-defined workspace as unconstrained robot movements can risk dealing severe damage and potentially life-threatening damage to the patient.

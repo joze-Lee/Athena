@@ -1,1 +1,0 @@
-By reducing the input velocity,  t will increase, and the robot s trajectory will closely follow the input signal. Since the input signals are constantly changing, the robot s path cannot correspond to them. Consequently, the system will always have an error as long as the inputs change, since the system requires time to react.

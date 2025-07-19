@@ -1,1 +1,0 @@
-This allows the surgeon to control the robotic end effector at the microscopic level by scaling down the macroscopic movements of the system input device. An example of what the logic of the scaling code would look like is shown in Fig. 13.

@@ -1,1 +1,0 @@
-Both the experimental and computational modeling show a very similar positive linear relationship between flow rate (Q) and wavelength (L) for a given orifice (Fig. 4).

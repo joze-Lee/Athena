@@ -1,1 +1,0 @@
-Instead of low-cost DC motors, pneumatic actuators or higher- torque/higher-geared servo motors could be used. These alternatives would almost certainly give improved response times, whilst still delivering sufficient accuracy and rigidity for the intended surgical application. VII.

@@ -1,1 +1,0 @@
-The joints enable multiple struts to be connected together and pivot around each node point. The joints have near-perfect concentricity of rotation around the node point, which enables the tension and compression forces of the struts to be resolved in a structurally- efficient manner.

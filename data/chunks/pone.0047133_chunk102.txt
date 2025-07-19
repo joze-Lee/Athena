@@ -1,1 +1,0 @@
-Individual data consisted of the maximum wavelength, the corresponding peak flow rate, the total voided volume and the subject s age.

@@ -1,1 +1,0 @@
-9. An illustration of the assembled surgical robot device installed in an operating theatre environment. (T) Surgical tool, (VC) vertebral cavity, (FT) fixed top, (LA) linear actuators, (MB) mobile base, (P) patient, (OP) octahedral platform, and (RS) rigid structure.

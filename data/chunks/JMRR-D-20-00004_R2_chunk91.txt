@@ -1,1 +1,0 @@
-The octahedral platform is intended to be suspended from a rigid structure (RS) located above the prone patient (P). 4.2. Configuration of the surgical platform The robot manipulator was designed such that it will be suspended from a fixed structure located above the patient.

@@ -1,1 +1,0 @@
-Laser interferometry-based guidance methodology for high precision positioning of mechanisms and robots. Robot Comput Integr Manuf 2010;26:74 82. https://doi. org/10.1016/j.rcim.2009.04.002.

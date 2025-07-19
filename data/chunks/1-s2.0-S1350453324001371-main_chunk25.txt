@@ -1,1 +1,0 @@
-[13] for esti  mating the tool-tissue force interaction in robot-assisted minimally invasive surgery that does not rely on external force measurement. To estimate the force interaction, the suggested technique uses the current from the surgical instrument s motors as well as neural network algo  rithms.

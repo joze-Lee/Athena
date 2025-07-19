@@ -1,1 +1,0 @@
-To still achieve the same mechanical goals, but offering a simpler, more compact joint configuration, the novel Concentric Connector Joint was used in the design of the surgical robotic framework, originally developed by the authors for use in prototypes of form-changing space frame structures [15][18]. 3. Path Towards A Solution 3.1.

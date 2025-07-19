@@ -1,1 +1,0 @@
-This has advantages over existing uroflow- metry techniques in that it is completely non-invasive, simple and cheap to implement and avoids inaccuracies associated with voiding in a clinical setting and obtaining data from a single void [7,21 24].

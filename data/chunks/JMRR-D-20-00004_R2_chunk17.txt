@@ -1,1 +1,0 @@
-The configuration of most existing robotic surgery devices is based on the  serial manipulator  configuration [3] [4], loosely analogous to the human arm a series of struts (arms) with a hinged joint (elbow), along with pivots (wrist).

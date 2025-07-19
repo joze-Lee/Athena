@@ -1,1 +1,0 @@
-This paper presents a working positional control that incorporates haptic technology structure that adopted for the first time in a flexible robotic device system for spinal surgery. The flexible robot system was developed by the authors[14] to be used in the removal of cancerous tumors surrounding the spinal column.

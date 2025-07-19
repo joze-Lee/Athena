@@ -1,1 +1,0 @@
-Graph of percentage errors against the number of encoder pulses for motor test cell with filter and without a filter. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.) Fig.

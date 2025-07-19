@@ -1,1 +1,0 @@
-In vitro Experimental Modelling Rigid walled orifice geometries used in the experimental work were manufactured using a rapid-prototyping technique within a 0.1 mm tolerance. Orifice circumference was varied from 6 to 33 mm to reflect the physiological range in urethral dimensions.

@@ -1,1 +1,0 @@
-In order to create a geometric structure that is much closer in pure geometry to an octahedron, with all of the benefits of simplicity this would bring, it will be seen that the commonly- used 2DoF pin joints need to be replaced with a different joint configuration.
