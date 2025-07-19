@@ -44,6 +44,7 @@ def main():
         print("\n📌 Top reranked chunks:")
         for item in reranked:
             print(f"- ({item['score']:.4f}) {item['text'][:120]}…")  # Truncated tex
+            print("hello")
 
 
 if __name__ == "__main__":
