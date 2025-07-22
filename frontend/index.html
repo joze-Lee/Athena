@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Athena AI</title>
+    <!-- <link rel="stylesheet" href="styles.css" /> -->
+    <link rel="stylesheet" href="/static/styles.css">
+    
+</head>
+
+<body class="dark-mode">
+    <header>
+        <h1 class="site-title">Athena</h1>
+
+        <button id="themeToggle">🌙</button>
+    </header>
+
+    <main>
+        <div class="chat-container" id="chatBox">
+            <!-- Chat messages will go here -->
+        </div>
+        <div class="chat-controls">
+            <div class="upload-section">
+                <label for="pdfUpload" class="upload-label">📎 Pdf</label>
+                <input type="file" id="pdfUpload" accept="application/pdf" style="display: none;" />
+            </div>
+
+            <div class="input-section hidden" id="inputSection">
+                <input type="text" id="userInput" placeholder="Ask something..." />
+                <!-- <button id="sendButton">Send</button> -->
+                <!-- <button id="sendButton">
+            <span class="send-button-chatgpt">➤</span>
+        </button> -->
+                <button class="send-button-icon" id="sendButton" title="Send">
+                    <svg viewBox="0 0 24 24" class="gradient-icon" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M2 21L23 12L2 3V10L17 12L2 14V21Z" fill="url(#gradient)" />
+                        <defs>
+                            <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+                                <stop offset="0%" stop-color="#00ffff" />
+                                <stop offset="100%" stop-color="#a336c4" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                </button>
+
+
+            </div>
+        </div>
+    </main>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>

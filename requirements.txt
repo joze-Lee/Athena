@@ -4,3 +4,8 @@ PyMuPDF
 nltk
 faiss-cpu
 tf-keras
+fastapi
+uvicorn
+boto3
+python-multipart
+python-dotenv

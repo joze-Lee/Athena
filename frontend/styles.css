@@ -1,0 +1,221 @@
+:root {
+    --card-hover-gradient: linear-gradient(135deg, #00ffff, #a336c4);
+    --light-bg: #f4f4f4;
+    --dark-bg: #0f0f0f;
+    --light-text: #1a1a1a;
+    --dark-text: #f0f0f0;
+    --light-border: #ddd;
+    --dark-border: #333;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    transition: background 0.3s, color 0.3s;
+}
+
+.input-section {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.input-section input[type="text"] {
+    flex: 1;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--dark-border);
+    background-color: var(--dark-bg);
+    color: var(--dark-text);
+    font-size: 1rem;
+    outline: none;
+}
+
+.input-section button {
+    background: transparent;
+    /* color: white; */
+    padding: 0.6rem 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    /* white-space: nowrap; */
+    transition: transform 0.5s ease;
+}
+
+/* .input-section button:hover {
+    transform: scale(1.6)!important;
+  } */
+.input-section.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+body.light-mode {
+    background-color: var(--light-bg);
+    color: var(--light-text);
+}
+
+body.dark-mode {
+    background-color: var(--dark-bg);
+    color: var(--dark-text);
+}
+
+.site-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    background: var(--card-hover-gradient);
+    /* Use your gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+    font-size: 0.5rem;
+    border-bottom: 1px solid var(--dark-border);
+}
+
+#themeToggle {
+    position: absolute;
+    right: 2rem;
+    background: var(--card-hover-gradient);
+    border: none;
+    padding: 0.5rem 1rem;
+    color: white;
+    font-size: 0.5 rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+
+}
+
+#themeToggle:hover {
+    transform: scale(1.25);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    margin: auto;
+    height: calc(100vh - 100px);
+    padding: 1rem;
+}
+
+.chat-container {
+    flex: 1;
+    overflow-y: auto;
+    border: 1px solid var(--dark-border);
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgba(255, 255, 255, 0.02);
+}
+
+.chat-controls {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 900px;
+    gap: 0.5rem;
+    margin: 1rem auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input-area {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.input-area input[type="text"] {
+    flex: 1;
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--dark-border);
+    background-color: transparent;
+    color: inherit;
+}
+
+/* #sendButton {
+    background: var(--card-hover-gradient);
+    color: white;
+    padding: 0.75rem 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  } */
+/* .send-icon {
+    font-size: 1.5rem;
+    background: var(--card-hover-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    display: inline-block;
+  } */
+
+/* #sendButton:hover {
+    transform: scale(1.5);
+  } */
+.upload-section {
+    display: flex;
+    align-items: center;
+}
+
+.upload-label {
+    font-size: 1.5rem;
+    cursor: pointer;
+    background: var(--card-hover-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    user-select: none;
+}
+
+
+
+
+
+
+.send-button-icon {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.send-button-icon:hover {
+    transform: scale(1.5);
+}
+
+.gradient-icon {
+    width: 28px;
+    height: 28px;
+}
