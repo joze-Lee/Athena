@@ -8,7 +8,53 @@ document.getElementById('themeToggle').addEventListener('click', () => {
 
 const pdfUpload = document.getElementById("pdfUpload");
 const inputSection = document.getElementById("inputSection");
-const loader = document.getElementById("loader");
+const overlay = document.getElementById('overlay-loader');
+
+function showLoader() {
+  overlay.classList.remove("hidden");
+}
+
+function hideLoader() {
+  overlay.classList.add("hidden");
+}
+
+
+// Interpolate between two colors
+function interpolateColor(color1, color2, factor) {
+    const c1 = parseInt(color1.slice(1), 16);
+    const c2 = parseInt(color2.slice(1), 16);
+  
+    const r1 = (c1 >> 16) & 0xff;
+    const g1 = (c1 >> 8) & 0xff;
+    const b1 = c1 & 0xff;
+  
+    const r2 = (c2 >> 16) & 0xff;
+    const g2 = (c2 >> 8) & 0xff;
+    const b2 = c2 & 0xff;
+  
+    const r = Math.round(r1 + (r2 - r1) * factor);
+    const g = Math.round(g1 + (g2 - g1) * factor);
+    const b = Math.round(b1 + (b2 - b1) * factor);
+  
+    return `rgb(${r}, ${g}, ${b})`;
+  }
+  
+  // Apply the colors on load
+  function setDotColors() {
+    const startColor = "#a336c4";
+    const endColor = "#00ffff";
+    const dots = document.querySelectorAll('.dot');
+  
+    dots.forEach((dot, index) => {
+      const factor = index / (dots.length - 1);
+      dot.style.setProperty('--dot-color', interpolateColor(startColor, endColor, factor));
+    });
+  }
+  
+  // Run once DOM is ready
+  document.addEventListener("DOMContentLoaded", setDotColors);
+  
+
 
 pdfUpload.addEventListener("change", async () => {
     const file = pdfUpload.files[0];
@@ -23,7 +69,8 @@ pdfUpload.addEventListener("change", async () => {
         formData.append("file", file);
 
         try {
-            loader.classList.remove("hidden"); // Show loader
+            // overlay.classList.remove("hidden"); // Show loader
+            showLoader();
             const response = await fetch("/api/upload-pdf", {
                 method: "POST",
                 body: formData,
@@ -33,7 +80,7 @@ pdfUpload.addEventListener("change", async () => {
             if (response.ok) {
 
                 const result = await response.json();
-                loader.classList.add("hidden"); // Hide loader
+                // overlay.classList.add("hidden"); // Hide loader
                 inputSection.classList.remove("hidden");
                 // alert("✅ PDF uploaded and processed successfully!");
                 console.log("📄 File URL:", result.url); // Optional: show S3 URL
@@ -44,6 +91,10 @@ pdfUpload.addEventListener("change", async () => {
         } catch (error) {
             console.error("Error uploading file:", error);
             alert("❌ An unexpected error occurred.");
+        }
+        finally{
+            // overlay.classList.add("hidden"); // Hide loader
+            hideLoader();
         }
 
 
