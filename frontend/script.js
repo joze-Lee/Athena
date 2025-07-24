@@ -57,6 +57,7 @@ function interpolateColor(color1, color2, factor) {
 
 
 pdfUpload.addEventListener("change", async () => {
+    // console.log("i am in for upload")
     const file = pdfUpload.files[0];
     if (file && file.type !== "application/pdf") {
 
@@ -83,7 +84,7 @@ pdfUpload.addEventListener("change", async () => {
                 // overlay.classList.add("hidden"); // Hide loader
                 inputSection.classList.remove("hidden");
                 // alert("✅ PDF uploaded and processed successfully!");
-                console.log("📄 File URL:", result.url); // Optional: show S3 URL
+                console.log("✅  " +result.message); // Optional: show S3 URL
             } else {
                 let errorText = await response.text();
                 alert("❌ Upload failed: " + errorText);
@@ -95,6 +96,7 @@ pdfUpload.addEventListener("change", async () => {
         finally{
             // overlay.classList.add("hidden"); // Hide loader
             hideLoader();
+            pdfUpload.value = null;
         }
 
 

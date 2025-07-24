@@ -28,7 +28,6 @@ def embed_chunks():
 
     chunks, metadata = load_chunks()
     embeddings = model.encode(chunks, show_progress_bar=True)
-
     np.save(INDEX_DIR / "chunk_vectors.npy", embeddings)
 
     with open(INDEX_DIR / "chunk_metadata.json", "w", encoding="utf-8") as f:
