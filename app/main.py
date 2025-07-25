@@ -9,7 +9,6 @@ from pathlib import Path
 app = FastAPI()
 # load_dotenv() 
 app.mount("/static", StaticFiles(directory="frontend"), name="static")
-
 app.include_router(routes.router, prefix="/api")
 
 @app.get("/")

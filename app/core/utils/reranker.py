@@ -3,7 +3,8 @@
 from sentence_transformers import CrossEncoder
 
 # Load once globally
-reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+reranker = CrossEncoder('BAAI/bge-reranker-base')
+# reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 
 def rerank_chunks(query: str, chunks: list[str], top_k=5):
     # Create query-chunk pairs

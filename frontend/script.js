@@ -159,11 +159,11 @@ const sendMessage = async() => {
         const data = await response.json();
         chatBox.removeChild(loadingMessage);
 
-        if (response.ok && data.results.length > 0) {
+        if (response.ok && data.answer.length > 0) {
             // Add Athena's response(s)
             // data.results.forEach((item, idx) => {
             //     const botMessage = document.createElement('div');
-            //     botMessage.textContent = `🤖 Jarvis (${idx + 1}): ${item.text}`;
+            //     botMessage.textContent = `🤖 Athena (${idx + 1}): ${item.text}`;
             //     botMessage.style.margin = '0.5rem 0';
             //     botMessage.style.color = '#1a73e8';
             //     chatBox.appendChild(botMessage);
@@ -177,11 +177,13 @@ const sendMessage = async() => {
             // chatBox.appendChild(botMessage);
 
 
-            const topAnswer = data.results[0];
+            // const topAnswer = data.results[0];
+            const topAnswer = data.answer;
 
             // 🤖 Athena Message (Right Aligned, Cyan Bubble)
             const botMessage = document.createElement('div');
-            botMessage.textContent = topAnswer.text;
+            // botMessage.textContent = topAnswer.text;
+            botMessage.textContent = topAnswer;
             botMessage.style.margin = '8px 0';
             botMessage.style.padding = '12px 20px';
             botMessage.style.backgroundColor = '#a336c4';
@@ -205,7 +207,7 @@ const sendMessage = async() => {
     } catch (error) {
         chatBox.removeChild(loadingMessage);
         const errorMessage = document.createElement('div');
-        errorMessage.textContent = "❌ Failed to get response from Jarvis.";
+        errorMessage.textContent = "❌ Failed to get response from Athena.";
         errorMessage.style.color = 'red';
         chatBox.appendChild(errorMessage);
         console.error("Fetch error:", error);

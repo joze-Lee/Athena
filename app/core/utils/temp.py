@@ -1,13 +1,17 @@
-from nltk.tokenize import sent_tokenize
-import nltk
+from huggingface_hub import InferenceClient
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
-# import nltk
-# nltk.download('punkt_tab')
+HUGGINGFACE_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 
-os.environ['NLTK_DATA'] = '/Users/braddy/nltk_data'
-nltk.data.find('tokenizers/punkt')  # validate punkt is there
+client = InferenceClient(token=HUGGINGFACE_TOKEN)
 
-text = "This is a test. This should split into two sentences."
-sentences = sent_tokenize(text)  # ✅ will use the correct tokenizer
-print(sentences)
+
+response = client.text_generation(
+    "Your input text here",  # directly pass input string or list of strings as the first argument
+    model="mistralai/Mistral-7B-Instruct-v0.2",
+    parameters={"max_new_tokens": 512}
+)
+
+print(response)

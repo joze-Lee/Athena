@@ -4,14 +4,13 @@ import os
 from pathlib import Path
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from core.utils.pdf_parser import process_pdf
-from core.utils.embedder import embed_chunks
-from core.utils.faiss_indexer import build_faiss_index, search
-from core.utils.reranker import rerank_chunks  
+from app.core.utils.pdf_parser import process_pdf
+from app.core.utils.embedder import embed_chunks
+from app.core.utils.faiss_indexer import build_faiss_index, search
+from app.core.utils.reranker import rerank_chunks  
 
 PDF_DIR = Path("data/pdfs")
 CHUNK_OUTPUT_DIR = Path("data/chunks")
-
 
 
 

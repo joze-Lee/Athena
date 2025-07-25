@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 import logging
 from nltk.tokenize import sent_tokenize
+from app.core.utils.embedder import clear_index_dir,clear_old_chunks
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -70,7 +71,8 @@ def process_pdf(pdf_path, chunk_output_dir):
     pdf_name = Path(pdf_path).stem
     chunk_dir = Path(chunk_output_dir)
     chunk_dir.mkdir(parents=True, exist_ok=True)
-
+    clear_old_chunks()
+    clear_index_dir()
     chunk_paths = []
     for idx, chunk in enumerate(chunks):
         chunk_file = chunk_dir / f"{pdf_name}_chunk{idx}.txt"

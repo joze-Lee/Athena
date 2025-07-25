@@ -203,7 +203,7 @@ main {
     font-size: 1.5rem;
     cursor: pointer;
     background: var(--card-hover-gradient);
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     user-select: none;
 }

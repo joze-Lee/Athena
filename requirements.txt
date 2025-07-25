@@ -9,7 +9,9 @@ uvicorn
 boto3
 python-multipart
 python-dotenv
-langchain langchain-community
-sentence-transformers faiss-cpu
-transformers accelerate
+langchain
+sentence-transformers 
+transformers
+accelerate
 huggingface_hub
+langchain-community
