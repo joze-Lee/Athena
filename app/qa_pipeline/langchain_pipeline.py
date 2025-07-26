@@ -45,26 +45,22 @@ def generate_answer_with_context( chunks: list[dict], question: str) -> str:
     
     limited_chunks = chunks[:NUM_CONTEXT_CHUNKS]
     context = prepare_context(limited_chunks)
-    print("------------------------------------------------",context)
+    # print("------------------------------------------------",context)
     
     prompt = get_generation_prompt(context, question)
+    print("Promt:------------------------------------------------",prompt)
     llm = get_cached_huggingface_llm()
     
     # Generate text using HuggingFacePipeline's __call__
     generated_text = llm(prompt)
     
     # If output is a list (some pipeline versions), extract text
-    print("irungaaa bhai....................... : "+generated_text)
+    print("Generated Answer:------------------------------------------------ "+generated_text)
     
     if isinstance(generated_text, list) and "generated_text" in generated_text[0]:
         generated_text = generated_text[0]["generated_text"]
-    
-    print("mudichitinga ponga............ : "+generated_text)
    
     # Post-process to extract clean answer
-    # answer_start = generated_text.find("Answer:") + len("Answer:")
-    # print("INdex vlaue  ", answer_start)
-    # clean_answer = generated_text[answer_start:].strip()
     if "Answer:" in generated_text:
         clean_answer = generated_text.split("Answer:")[1].strip()
     else:
@@ -72,5 +68,5 @@ def generate_answer_with_context( chunks: list[dict], question: str) -> str:
         clean_answer = generated_text.strip().split("\n")[-1]
 
 
-    print("cleaned answer : " , clean_answer)
+    print("cleaned answer :------------------------------------------------" , clean_answer)
     return clean_answer

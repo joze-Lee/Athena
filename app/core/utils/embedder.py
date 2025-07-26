@@ -16,28 +16,8 @@ INDEX_DIR = Path("data/indexes")
 FAISS_INDEX_DIR =  Path("data/indexes/faiss_index")
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
-# def load_chunks():
-#     chunks = []
-#     metadata = []
-
-#     for chunk_file in CHUNKS_DIR.glob("*.txt"):
-#         text = chunk_file.read_text(encoding="utf-8").strip()
-#         chunks.append(text)
-#         metadata.append({
-#             "chunk_file": str(chunk_file),
-#             "text": text
-#         })
-
-#     return chunks, metadata
-# def load_text_chunks():
-#     docs = []
-#     for chunk_file in CHUNKS_DIR.glob("*.txt"):
-#         text = chunk_file.read_text(encoding="utf-8").strip()
-#         # docs.append(Document(page_content=text))
-#         docs.append(Document(page_content=text, metadata={"source": str(chunk_file)}))
-
-#     return docs
-
+# MODEL_NAME="BAAI/bge-base-en-v1.5" # not good for precise informations like phone numbers
+MODEL_NAME="all-MiniLM-L6-v2"
 
 
 
@@ -78,7 +58,7 @@ def clear_index_dir():
         print("Index directory does not exist.")
 
 def build_and_save_faiss_index():
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embedding_model = HuggingFaceEmbeddings(model_name=MODEL_NAME)
     
 
     docs = load_text_chunks()
@@ -92,14 +72,3 @@ def build_and_save_faiss_index():
     faiss_index.save_local(str(INDEX_DIR / "faiss_index"))
     print(f"[INFO] FAISS index saved to {INDEX_DIR / 'faiss_index'}")
 
-# def embed_chunks():
-#     model = SentenceTransformer("all-MiniLM-L6-v2")
-
-#     chunks, metadata = load_chunks()
-#     embeddings = model.encode(chunks, show_progress_bar=True)
-#     np.save(INDEX_DIR / "chunk_vectors.npy", embeddings)
-
-#     with open(INDEX_DIR / "chunk_metadata.json", "w", encoding="utf-8") as f:
-#         json.dump(metadata, f, indent=2)
-
-#     print(f"[INFO] Saved {len(embeddings)} embeddings to {INDEX_DIR}")
