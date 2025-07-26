@@ -96,6 +96,7 @@ async def ask_question(input: QueryInput):
     # Optional: Rerank the top chunks (you could directly return the result instead if reranking is unnecessary)
     reranked = rerank_chunks(input.query, top_chunks, top_k=5)
     
+    # print("final thoughts",generated_answer)
     generated_answer = generate_answer_with_context(reranked, input.query)
 
     # generated_answer = generate_answer_with_context(reranked, input.query)

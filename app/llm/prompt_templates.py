@@ -11,12 +11,25 @@ def get_default_prompt():
         Answer concisely:"""
     )
 
-def get_generation_prompt(context: str, question: str) -> str:
-    return f"""You are a helpful assistant. Answer the question based ONLY on the context provided. 
-If the answer cannot be found in the context, say "I don't know".
+# def get_generation_prompt(context: str, question: str) -> str:
+#     return f"""You are a helpful assistant. Answer the question based ONLY on the context provided. 
+# If the answer cannot be found in the context, say "I don't know".
 
-Context:
+# Context:
+# {context}
+
+# Question: {question}
+# Answer:"""
+
+def get_generation_prompt(context: str, question: str) -> str:
+    return f"""### Instruction:
+You are a helpful assistant. Answer the question using ONLY the context below. 
+If the answer is not in the context, respond with "I don't know".
+
+### Context:
 {context}
 
-Question: {question}
-Answer:"""
+### Question:
+{question}
+
+### Answer:"""

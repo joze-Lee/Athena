@@ -13,6 +13,7 @@ import shutil
 
 CHUNKS_DIR = Path("data/chunks")
 INDEX_DIR = Path("data/indexes")
+FAISS_INDEX_DIR =  Path("data/indexes/faiss_index")
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
 # def load_chunks():
@@ -66,8 +67,8 @@ def clear_old_chunks():
             print(f"Failed to delete {file.name}: {e}")
 
 def clear_index_dir():
-    if INDEX_DIR.exists() and INDEX_DIR.is_dir():
-        for item in INDEX_DIR.iterdir():
+    if FAISS_INDEX_DIR.exists() and FAISS_INDEX_DIR.is_dir():
+        for item in FAISS_INDEX_DIR.iterdir():
             if item.is_dir():
                 shutil.rmtree(item)
             else:

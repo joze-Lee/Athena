@@ -123,19 +123,21 @@ const sendMessage = async() => {
 
 
 
+  
 
     // const userMessage = document.createElement('div');
     userMessage.textContent = input.value;
     userMessage.style.margin = '8px 0';
     userMessage.style.padding = '12px 20px';
-    userMessage.style.backgroundColor = '#00ffff';
-    userMessage.style.color = '#222'; // Dark text for contrast
-    userMessage.style.alignSelf = 'flex-start';
-    userMessage.style.borderRadius = '20px 20px 20px 4px';
+    userMessage.style.backgroundColor = '#a336c4';
+    userMessage.style.color = 'white'; // Dark text for contrast
+    userMessage.style.alignSelf = 'flex-end';
+    userMessage.style.borderRadius = '20px 20px 20px 4px'; //20px 20px 4px 20px
     userMessage.style.maxWidth = '60%';
-    userMessage.style.boxShadow = '0 2px 8px rgba(163, 54, 196, 0.3)';
+    userMessage.style.boxShadow = '0 2px 8px rgba(0, 255, 255, 0.3)';
     userMessage.style.fontFamily = "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
     userMessage.style.fontSize = '15px';
+    
     chatBox.appendChild(userMessage);
     
 
@@ -147,6 +149,7 @@ const sendMessage = async() => {
       const loadingMessage = document.createElement('div');
     loadingMessage.textContent = "🤖 Athena is thinking...";
     loadingMessage.style.color = 'gray';
+    loadingMessage.style.alignSelf = 'flex-end'; 
     chatBox.appendChild(loadingMessage);
 
     try {
@@ -183,17 +186,26 @@ const sendMessage = async() => {
             // 🤖 Athena Message (Right Aligned, Cyan Bubble)
             const botMessage = document.createElement('div');
             // botMessage.textContent = topAnswer.text;
+
+
+            
+
+
             botMessage.textContent = topAnswer;
             botMessage.style.margin = '8px 0';
             botMessage.style.padding = '12px 20px';
-            botMessage.style.backgroundColor = '#a336c4';
-            botMessage.style.color = 'white';
-            botMessage.style.alignSelf = 'flex-end';
-            botMessage.style.borderRadius = '20px 20px 4px 20px';
+            botMessage.style.backgroundColor = '#00ffff';
+            botMessage.style.color = '#222';
+            botMessage.style.alignSelf = 'flex-start';
+            botMessage.style.borderRadius = '20px 20px 20px 4px';
             botMessage.style.maxWidth = '60%';
-            botMessage.style.boxShadow = '0 2px 8px rgba(0, 255, 255, 0.3)';
+            botMessage.style.boxShadow = '0 2px 8px rgba(163, 54, 196, 0.3)';
             botMessage.style.fontFamily = "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
             botMessage.style.fontSize = '15px';
+
+
+
+            
 
             chatBox.appendChild(botMessage);
             chatBox.scrollTop = chatBox.scrollHeight;
@@ -202,12 +214,14 @@ const sendMessage = async() => {
             const errorMessage = document.createElement('div');
             errorMessage.textContent = "❌ No results found.";
             errorMessage.style.color = 'red';
+            errorMessage.style.alignSelf = 'flex-end'; 
             chatBox.appendChild(errorMessage);
         }
     } catch (error) {
         chatBox.removeChild(loadingMessage);
         const errorMessage = document.createElement('div');
         errorMessage.textContent = "❌ Failed to get response from Athena.";
+        errorMessage.style.alignSelf = 'flex-end'; 
         errorMessage.style.color = 'red';
         chatBox.appendChild(errorMessage);
         console.error("Fetch error:", error);

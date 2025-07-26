@@ -18,3 +18,4 @@ athena-env/
 .vscode/
 .idea/
 data/
+models/
